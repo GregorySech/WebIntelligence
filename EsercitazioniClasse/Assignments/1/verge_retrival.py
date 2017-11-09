@@ -22,29 +22,6 @@ def _save_to_path(string_content, path = './dummy_save'):
     with open(file=path, mode='w', encoding='utf-8') as fout:
         print(string_content, file=fout)
 
-def _page_downloader(url, page_path, cache_folder='./cached/', ignore_cache=False):
-    import os
-
-    def _downloader(url):
-        with urllib.request.urlopen(url) as response:
-            return response.read()
-
-    def _cache(cache_path):
-        content = None
-        try:
-            Path(cache_path).resolve()
-        except FileNotFoundError:
-            return content;
-        else:
-            with open(cache_folder, mode='r', encoding='utf-8') as fin:
-
-
-    os.makedirs(cache_folder, exist_ok=True)
-    cache_path = cache_folder + '{}'.format(url.replace("/", "_"))
-
-    if ignore_cache:
-
-
 def _article_downloader(url, article_path):
     with urllib.request.urlopen(url) as response:
         html = response.read()

@@ -3,6 +3,39 @@ Utilities modules for the Course Web Intelligence.
 AY: 2017-2018
 '''
 
+
+def _page_downloader(url, cache_folder='./cached/', ignore_cache=False):
+    import os
+    import urllib
+    from pathlib import Path
+
+    def _downloader(url):
+        with urllib.request.urlopen(url) as response:
+            return response.read()
+
+    def _cache(cache_path):
+        content = None
+        try:
+            Path(cache_path).resolve()
+        except FileNotFoundError:
+            return content;
+        else:
+            with open(cache_folder, mode='r', encoding='utf-8') as fin:
+                content = ' '.join(fin.readlines())
+        return content
+
+    os.makedirs(cache_folder, exist_ok=True)
+    cache_path = cache_folder + '{}'.format(url.replace("/", "_"))
+    if ignore_cache:
+        content = _downloader(url)
+    else:
+        content = _cache(cache_path)
+        if content is None:
+            content = _downloader(url)
+
+    return content
+
+
 class Scraper:
     def __init__(self, cache_path=None, parser=None):
         if cache_path is None:
@@ -32,12 +65,8 @@ class Scraper:
         :param ignore_cache: if True it will not try to find cached versions of the url.
         :return: Parsed object
         '''
-        if ignore_cache:
-            pass
-        else:
-            pass
 
+        page = _page_downloader(url, cache_folder=self.cache_path, ignore_cache=ignore_cache)
+        return self._parser(page)
 
-
-//*[@id="px"]/div[3]/div/div[5]/a
 
