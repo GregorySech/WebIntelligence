@@ -1,0 +1,1277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="it" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <!-- meta http-equiv="Content-Language" content="it" / -->
+  <title>
+   Salute: congresso Siprec, inquinamento e stress nemici cuore - Medicina  - Salute e Benessere - ANSA.it
+  </title>
+  <meta content="Salute: congresso Siprec, inquinamento e stress nemici cuore, Per combattere rischi,esercizio fisico e dieta con antiossidanti, , Medicina, Ansa" name="description"/>
+  <meta content="Salute" name="keywords"/>
+  <!-- meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" / -->
+  <meta content="Redazione ansa.it" name="autore"/>
+  <meta content="redazione.internet@ansa.it" name="email"/>
+  <meta content="ANSA.it" name="sender"/>
+  <link href="/saluteebenessere/css/style_saluteebenessere_20160209.css?v3" media="screen, projection" rel="stylesheet" type="text/css"/>
+  <link href="/saluteebenessere/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+  <!--[if IE 7]>
+<link rel="stylesheet" href="/saluteebenessere/css/ie.css" type="text/css" media="screen" / >
+<![endif]-->
+  <!--[if lte IE 6]>
+<link rel="stylesheet" href="/saluteebenessere/css/ie_lte6.css" type="text/css" media="screen" />
+<![endif]-->
+  <!--[if lt IE 6]>
+<link rel="stylesheet" href="/web/css/ie_lt6.css" type="text/css" media="screen" />
+<![endif]-->
+  <link href="/web/images/favicon.ico" rel="Shortcut Icon" type="image/ico"/>
+  <script src="/web/js/jquery-1.3.2.pack.js" type="text/javascript">
+  </script>
+  <script src="/web/js/jquery.cookie.js" type="text/javascript">
+  </script>
+  <script src="/web/js/jquery.atextsize.js" type="text/javascript">
+  </script>
+  <script src="/web/js/photoGallery.js" type="text/javascript">
+  </script>
+  <script src="/web/js/ui.core.js" type="text/javascript">
+  </script>
+  <script src="/web/js/ui.accordion.js" type="text/javascript">
+  </script>
+  <script src="/web/js/ansacounter.js" type="text/javascript">
+  </script>
+  <script src="/web/banner_js/tiscali_banner_array.js?v3" type="text/javascript">
+  </script>
+  <script src="/web/banner_js/ansa_banner_array.js" type="text/javascript">
+  </script>
+  <script src="/web/banner_js/banner_function.js?v1" type="text/javascript">
+  </script>
+  <!--CLOSE_JS_ALL-->
+  <script type="text/javascript">
+   //<![CDATA[
+ 
+var headLoaded=true;
+ 
+function getMeta(metaname) {
+    var metas = $("meta");
+    var i;
+    for (i = 0; i < metas.length; i++)
+    	if (metas[i].getAttribute("NAME") == metaname)
+	  break;
+    var content = metas[i].getAttribute("CONTENT");
+    return content;
+}
+//]]>
+  </script>
+  <script type="text/javascript">
+   var i = 1;
+	// Media Array
+	var mediaArray = new Array('',
+	
+	'');
+	var didArray = new Array("",
+	
+	"");
+  </script>
+ </head>
+ <body class="pg-special" id="www-ansa-it">
+  <div class="pg">
+   <!-- Bk -->
+   <div class="bk">
+    <!-- #header -->
+    <div class="header-saluteebenessere">
+     <div class="brand">
+      <div class="logo">
+       <a href="/" title="ANSA.it">
+        <img alt="Prima pagina: Ansa.it" src="/saluteebenessere/images/logo_ansa_speciali.png"/>
+       </a>
+       <strong class="tagline">
+        Agenzia ANSA
+       </strong>
+      </div>
+     </div>
+     <div class="link-back">
+      <a href="/" title="Link per tornare sul sito ANSA.it">
+       <img alt="Link per tornare sul sito ANSA.it" src="/saluteebenessere/images/back_to_ansa.png"/>
+      </a>
+     </div>
+    </div>
+    <!-- /header -->
+    <div id="nav-bar">
+     <div class="comp-canale">
+      <img alt="" src="/saluteebenessere/images/comp_canale.jpg"/>
+     </div>
+     <div class="logo-canale">
+      <a href="/saluteebenessere/" title="Canale Salute e Benessere">
+       <img alt="Home Canale Salute&amp;Benessere" src="/saluteebenessere/images/logo_canale.png"/>
+      </a>
+      <h1 class="tagline">
+       Canale Salute&amp;Benessere
+      </h1>
+     </div>
+     <div class="h-box rf" id="header-search">
+      <form action="/ricerca/other/search.shtml" id="form-search" method="post">
+       <fieldset class="field-hidden">
+        <input name="sito" type="hidden" value="saluteebenessere"/>
+       </fieldset>
+       <fieldset class="f-input">
+        <legend>
+         Cerca sul sito di Salute e Benessere
+        </legend>
+        <label class="hide" for="qt">
+         Ricerca
+        </label>
+        <input class="text" id="qt" name="any" type="text"/>
+        <input alt="cerca" class="bt-submit" name="cerca" onclick="document.form-search.submit(); return false;" src="/saluteebenessere/images/bk_input.png" type="image" value="cerca"/>
+       </fieldset>
+       <!-- /f-input -->
+      </form>
+     </div>
+     <ul id="nav-main">
+      <li id="on">
+       <a href="/saluteebenessere/" title="Torna alla homepage Canale Salute e Benessere">
+        News
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/speciali/speciali.shtml" title="Speciali ed Eventi">
+        Speciali ed Eventi
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/videogallery/video.shtml" title="Videogallery">
+        Video
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/pro/" title="Professional">
+        Professional
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/salute_bambini/" title="Salute Bambini">
+        Salute Bambini
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/salute_65plus/" title="Salute 65+">
+        65+
+       </a>
+      </li>
+     </ul>
+    </div>
+    <!-- /nav-bar -->
+    <div id="nav-sub">
+     <ul class="p1-nav">
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/salute/salute.shtml" title="Sanità">
+        Sanità
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/medicina/medicina.shtml" title="Medicina">
+        Medicina
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/associazioni/associazioni.shtml" title="Associazioni">
+        Associazioni
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/alimentazione/alimentazione.shtml" title="Alimentazione">
+        Alimentazione
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/estetica/estetica.shtml" title="Estetica">
+        Estetica
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/stilidivita/stilidivita.shtml" title="Stili di vita">
+        Stili di vita
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/termeespa/termeespa.shtml" title="Terme e Spa">
+        Terme e Spa
+       </a>
+      </li>
+      <li>
+       <a href="/saluteebenessere/notizie/rubriche/elementiHP/si_puo_vincere.html" style="color:#a6121c;">
+        Si può vincere
+       </a>
+      </li>
+     </ul>
+    </div>
+    <!-- /nav-sub -->
+    <!-- /.main-menu -->
+    <div class="wrap c-2" id="saluteebenessere-news">
+     <div class="main-content">
+      <div class="path">
+       <span>
+        <em class="hide">
+         Percorso:
+        </em>
+        <a href="/web/">
+         ANSA
+        </a>
+        &gt;
+        <a href="/saluteebenessere/index.html">
+         Salute e Benessere
+        </a>
+        &gt;
+        <a href="/saluteebenessere/notizie/rubriche/medicina/medicina.shtml">
+         Medicina
+        </a>
+        &gt; Salute: congresso Siprec, inquinamento e stress nemici cuore
+       </span>
+      </div>
+      <!-- /content -->
+      <div class="content article detail">
+       <div class="header-content">
+        <h1>
+         Salute: congresso Siprec, inquinamento e stress nemici cuore
+        </h1>
+        <h2>
+         Per combattere rischi,esercizio fisico e dieta con antiossidanti
+        </h2>
+        <span class="date">
+         15 marzo, 13:22
+        </span>
+       </div>
+       <ul class="skip-link">
+        <li>
+         <a href="#content-corpo">
+          salta direttamente al contenuto dell'articolo
+         </a>
+        </li>
+        <li>
+         <a href="#correlati">
+          salta al contenuto correlato
+         </a>
+        </li>
+       </ul>
+       <script type="text/javascript">
+        <!--
+		
+		function initToolbar(){
+			$("#main-commento-link").attr("value", document.location.href);
+			$("#main-redazione-link").attr("value", document.location.href);
+			
+			$("#main-commento-title").attr("value", document.title);
+			$("#main-redazione-title").attr("value", document.title);
+			
+			$("#main-commento-sender").attr("value", getMeta("sender"));
+			$("#main-redazione-sender").attr("value", getMeta("sender"));
+			
+			$("#main-redazione-author").attr("value", getMeta("autore"));
+			$("#main-redazione-emailauthor").attr("value", getMeta("email"));
+		}
+
+		//-->
+       </script>
+       <div class="tools-bar">
+        <div class="social-button">
+         <div style="width:80px;height:15px; float:left;">
+          <g:plusone size="medium">
+          </g:plusone>
+         </div>
+         <div style="width:90px;height:15px; float:left;">
+          <a class="twitter-share-button" data-count="horizontal" data-via="Agenzia_Ansa" href="http://twitter.com/share">
+          </a>
+         </div>
+         <div style="width:110px; height:15px; float:left;">
+          <div id="fb-root">
+          </div>
+          <script src="http://connect.facebook.net/it_IT/all.js#xfbml=1">
+          </script>
+          <fb:like action="recommend" colorscheme="light" font="" href="" layout="button_count" send="false" show_faces="true" width="90">
+          </fb:like>
+         </div>
+        </div>
+        <ul class="text-zoom" id="mytextsize">
+         <li class="hide">
+         </li>
+        </ul>
+        <ul class="utils">
+         <li class="b-indietro">
+          <a href="javascript:window.history.back();">
+           Indietro
+          </a>
+         </li>
+         <li class="b-stampa">
+          <a href="javascript:window.print();">
+           Stampa
+          </a>
+         </li>
+         <li class="b-invia">
+          <form action="/contribuzione/invia.jsp" id="FRMcommento" method="post">
+           <div>
+            <input id="main-commento-link" name="link" type="hidden" value=""/>
+            <input id="main-commento-title" name="title" type="hidden" value=""/>
+            <input id="main-commento-sender" name="sender" type="hidden" value=""/>
+            <input name="sc" type="hidden" value="1"/>
+            <a href="javascript:void(0)" onclick="$('#FRMcommento').submit()">
+             Invia
+            </a>
+           </div>
+          </form>
+         </li>
+         <li class="b-scrivi">
+          <form action="/contribuzione/invia.jsp" id="FRMautore" method="post">
+           <div>
+            <input id="main-redazione-link" name="link" type="hidden" value=""/>
+            <input id="main-redazione-title" name="title" type="hidden" value=""/>
+            <input id="main-redazione-sender" name="sender" type="hidden" value=""/>
+            <input id="main-redazione-author" name="author" type="hidden" value=""/>
+            <input id="main-redazione-emailauthor" name="emailauthor" type="hidden" value=""/>
+            <a href="javascript:void(0)" onclick="$('#FRMautore').submit()">
+             Scrivi alla redazione
+            </a>
+           </div>
+          </form>
+         </li>
+         <li class="b-suggest">
+          <a href="javascript:incConsigliata($('#suggerito', 'li a')); void(0);" id="buttonConsiglia" title="Suggerisci questa news agli altri navigatori">
+           Suggerisci (
+           <strong id="suggerito">
+           </strong>
+           )
+          </a>
+         </li>
+        </ul>
+       </div>
+       <!-- /tools-bar -->
+       <script type="text/javascript">
+        <!--
+	initToolbar();
+   //-->
+       </script>
+       <!-- 4w_net_content_start -->
+       <script src="http://platform.twitter.com/widgets.js" type="text/javascript">
+       </script>
+       <!--[if !IE 7] -->
+       <script type="text/javascript">
+        window.___gcfg = {lang: 'it'};
+
+
+$(document).ready(function(){
+
+  (function() {
+
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+    po.src = 'https://apis.google.com/js/platform.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+  })();
+});
+       </script>
+       <!-- [endif]-->
+       <div id="gallery">
+        <div class="gallery-photo">
+         <div class="nav-gallery">
+          <ul>
+           <li class="num-pag" id="galleryNumPage">
+            <strong>
+            </strong>
+           </li>
+           <li>
+            <a class="prev" href="javascript:prevImage()">
+             precedente
+            </a>
+           </li>
+           <li>
+            <a class="next" href="javascript:nextImage()">
+             successiva
+            </a>
+           </li>
+          </ul>
+         </div>
+         <!-- nav-gallery -->
+         <div class="news-photo home">
+          <a class="next" href="javascript:nextImage()">
+           <img alt="" id="mediaViewer" src="/web/images/trasp.gif" title=""/>
+          </a>
+          <em class="didascalia" id="imgdid">
+          </em>
+         </div>
+        </div>
+       </div>
+       <!-- /gallery -->
+       <div class="corpo" id="content-corpo">
+        (ANSA) - NAPOLI, 15 MAR - A mettere a rischio la salute del
+nostro cuore possono essere anche lo stress o l'inquinamento
+atmosferico. La Siprec, Società Italiana per la Prevenzione
+Cardiovascolare, presieduta dal professor Bruno Trimarco, ha
+voluto dedicare la giornata inaugurale dell'XI congresso
+nazionale ad analizzare questi fattori di rischio emergenti e il
+ruolo che i mass media possono svolgere nell'aiutare i medici
+nella salvaguardia di una corretta informazione.
+        <br/>
+        <br/>
+        L'inquinamento atmosferico, al quale è stata dedicata una
+tavola rotonda, è secondo gli esperti il sorvegliato speciale al
+quale fare una grande attenzione. Ô emersa l'importanza di
+sensibilizzare l'opinione pubblica sulle sane abitudini
+quotidiane: un adeguato esercizio fisico svolto in ambienti
+salutari e una dieta ricca di antiossidanti (pomodori,
+barbabietole, arance rosse, carote) possono ridurre l'incidenza
+dei fattori di rischio cardiovascolare.
+        <br/>
+        <br/>
+        Secondo le stime dell'Oms, ogni anno circa oltre un milione e
+trecentomila morti sono attribuibili all'inquinamento
+atmosferico, diecimila solo nel nostro Paese. Meno noto al
+pubblico, ma altrettanto pericoloso è l'inquinamento indoor,
+cioè quello degli ambienti chiusi, nei quali viviamo la maggior
+parte del nostro tempo. (ANSA).
+        <br/>
+        <br/>
+       </div>
+       <!-- /#corpo -->
+       <span class="copy">
+        RIPRODUZIONE RISERVATA  © Copyright ANSA
+       </span>
+       <script type="text/javascript">
+        showImage()
+       </script>
+       <!-- 4w_net_content_stop -->
+       <div class="tools-bar toolbar-fb">
+        <ul class="utils">
+         <li class="b-indietro">
+          <a href="javascript:window.history.back();">
+           Indietro
+          </a>
+         </li>
+         <li class="b-home">
+          <a href="/">
+           Home
+          </a>
+         </li>
+        </ul>
+        <dl class="social-services">
+         <dt>
+          condividi:
+         </dt>
+         <dd>
+          <script src="/web/js/share.js" type="text/javascript">
+          </script>
+         </dd>
+        </dl>
+       </div>
+       <!-- /tools-bar -->
+       <div class="text-link">
+        <script type="text/javascript">
+         //<![CDATA[
+		var V = String.fromCharCode(34);
+		var L = String.fromCharCode(60);
+		var G = String.fromCharCode(62);
+		document.write(L+'i'+'frame id='+V+'fwnetC660'+V+' src='+V+'http://feed.4wnet.com/feed.html.ashx?a=4021&amp;n=3&amp;c=http://www.ansa.it/web/css/4wnetstileB2_660_60x60.css&amp;u=REF&amp;x=b&amp;hd=2&amp;i=1&amp;iw=60&amp;ih=60&amp;s=ansa_std_bottom_60x60'+V+' frameborder='+V+'0'+V+' scrolling='+V+'no'+V+' marginheight='+V+'0px'+V+' marginwidth='+V+'0px'+V+' height='+V+'120'+V+' width='+V+'660'+V+''+G+L+'/i'+'frame'+G);
+//]]>
+        </script>
+       </div>
+      </div>
+      <!-- /content -->
+     </div>
+     <!-- /main-content -->
+     <div class="extra">
+      <!-- banner 300x250 -->
+      <div class="adv" id="banner300x250r14">
+      </div>
+      <!-- /#banner 300x250 -->
+      <div class="spot">
+       <a href="http://www.viaggiart.com/get/it/app.html" rel="external nofollow">
+        <img alt="" src="/canale_viaggiart/img/banner/banner_300x80_ansaviaggiart.gif"/>
+       </a>
+      </div>
+      <div class="subcover agenda">
+       <h3>
+        Ansa Salute Professional
+       </h3>
+       <div class="box-pro">
+        <div class="news">
+         <h4>
+          <a href="/saluteebenessere/notizie/pro/rubriche/politicasanitaria/2017/02/07/vaccini-lorenzin-su-obbligatorieta-discuteremo-col-miur_7cf181d8-d65d-426b-adb6-1b8fb8f8f7d5.html">
+           Vaccini: Lorenzin, su obbligatorietà discuteremo col Miur
+          </a>
+         </h4>
+         <span>
+          Circa 1000 casi l'anno meningite, diminuirli seguendo calendario
+         </span>
+        </div>
+        <div class="news">
+         <h4>
+          <a href="/saluteebenessere/notizie/pro/rubriche/politicasanitaria/2017/02/07/al-via-nuovo-istituto-superiore-sanita35-mln-a-ricerca-2017_075707b6-3795-430a-a2c3-5325dc01388f.html">
+           Al via nuovo Istituto superiore sanità,35 mln a ricerca 2017
+          </a>
+         </h4>
+         <span>
+          Con nuovo modello 'recupero' 2 mln anno da reinvestire in Salute
+         </span>
+        </div>
+        <div class="news">
+         <h4>
+          <a href="/saluteebenessere/notizie/pro/rubriche/diagnosiecure/2017/02/07/sclerosi-multipla-biomarker-nel-sangue-apre-a-nuove-terapie_4875e39c-2096-44f7-aafa-0b0128dc2ded.html">
+           Sclerosi multipla: biomarker nel sangue apre a nuove terapie
+          </a>
+         </h4>
+         <span>
+          Scienziati australiani, così rapida prognosi su tipologia
+         </span>
+        </div>
+        <div class="archivio">
+         <a href="/saluteebenessere/notizie/pro/">
+          Vai al sito Professional
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="subcover">
+       <a href="http://www.viverlatutta.it/" rel="external nofollow" target="_blank">
+        <img alt="" src="/saluteebenessere/images/banner/banner_300x116_viverlatutta.png"/>
+       </a>
+      </div>
+      <div class="subcover speciali">
+       <h3>
+        Speciali ed Eventi
+       </h3>
+       <div class="lst-speciali">
+        <div class="news">
+         <a class="rf" href="/saluteebenessere/notizie/rubriche/speciali/2016/10/20/vicina-era-post-antibiotici-campagna-con-spot-tognazzi_e57ca876-fcca-41b9-9c1c-b24e4729e331.html">
+          <img alt="Presentazione della campagna 'Antibiotici la nostra difesa numero 1' della Societ Italiana Terapia Antinfettiva" class="small" src="/webimages/hp_90/2016/10/20/98490ab7d579adbe2a86308e8bbba03f.jpg" title="Presentazione della campagna 'Antibiotici la nostra difesa numero 1' della Societ Italiana Terapia Antinfettiva"/>
+         </a>
+         <h4>
+          <a href="/saluteebenessere/notizie/rubriche/speciali/2016/10/20/vicina-era-post-antibiotici-campagna-con-spot-tognazzi_e57ca876-fcca-41b9-9c1c-b24e4729e331.html">
+           Vicina era 'post antibiotici', campagna con spot Tognazzi
+          </a>
+         </h4>
+         <span>
+          Promossa da Società Italiana Terapia Antinfettiva anche con sito
+         </span>
+        </div>
+        <div class="news">
+         <a class="rf" href="/saluteebenessere/notizie/rubriche/speciali/2016/10/20/salute-policitemia-vera-20-30-malati-a-rischio-trombosi_b80e985e-68ab-4819-aa88-262c332e71d0.html">
+          <img alt="Salute: policitemia vera, 20-30% malati a rischio trombosi" class="small" src="/webimages/hp_90/2014/10/6/1f3602e9e0ae22235b3c0c06384ec470.jpg" title="Salute: policitemia vera, 20-30% malati a rischio trombosi"/>
+         </a>
+         <h4>
+          <a href="/saluteebenessere/notizie/rubriche/speciali/2016/10/20/salute-policitemia-vera-20-30-malati-a-rischio-trombosi_b80e985e-68ab-4819-aa88-262c332e71d0.html">
+           Salute: policitemia vera, malattia rara da 1.000 casi anno
+          </a>
+         </h4>
+         <span>
+          Avanzano nuovi farmaci, capostipite Ruxolinitib atteso in Italia
+         </span>
+        </div>
+        <div class="news">
+         <a class="rf" href="/saluteebenessere/notizie/rubriche/speciali/2016/10/19/contro-il-cancro-in-futuro-ognuno-avra-la-propria-dieta_d7c5a162-76c5-4646-8054-c17a982001c5.html">
+          <img alt="L'oncologo David Khayat (Immagine d'archivio)" class="small" src="/webimages/hp_90/2016/10/19/6da8ac9a1febb5094b399ca0bdf85006.jpg" title="L'oncologo David Khayat (Immagine d'archivio)"/>
+         </a>
+         <h4>
+          <a href="/saluteebenessere/notizie/rubriche/speciali/2016/10/19/contro-il-cancro-in-futuro-ognuno-avra-la-propria-dieta_d7c5a162-76c5-4646-8054-c17a982001c5.html">
+           Contro il cancro in futuro ognuno avrà la propria dieta
+          </a>
+         </h4>
+         <span>
+          Parla Khayat oncologo autore best seller 'Vera dieta anticancro"
+         </span>
+        </div>
+        <div class="news">
+         <a class="rf" href="/saluteebenessere/notizie/rubriche/speciali/2016/10/12/in-italia-farmaci-equivalenti-da-20-anni-miliardi-risparmi_bbb18319-e243-4316-bc0c-a712a8706e1a.html">
+          <img alt="Il presidente di Assogenerici Enrique Hausermann" class="small" src="/webimages/hp_90/2016/10/12/95dab615f0026358617291d8fb16397d.jpg" title="Il presidente di Assogenerici Enrique Hausermann"/>
+         </a>
+         <h4>
+          <a href="/saluteebenessere/notizie/rubriche/speciali/2016/10/12/in-italia-farmaci-equivalenti-da-20-anni-miliardi-risparmi_bbb18319-e243-4316-bc0c-a712a8706e1a.html">
+           In Italia farmaci equivalenti da 20 anni, miliardi risparmi
+          </a>
+         </h4>
+         <span>
+          Prezzo medio sceso del 15%, aumenta accesso a cure
+         </span>
+        </div>
+        <div class="news">
+         <a class="rf" href="/saluteebenessere/notizie/rubriche/speciali/2016/10/06/farmaci-da-teva-italia-investimenti-per-140-mln-in-10-anni_33d462e9-1c9b-467e-bebf-e7df14d8a26e.html">
+          <img alt="Hubert Puech d'Alissac (Amministratore Delegato Teva Italia)" class="small" src="/webimages/hp_90/2016/10/6/7c6e324b16c5c88dbde20ae4011ecc34.jpg" title="Hubert Puech d'Alissac (Amministratore Delegato Teva Italia)"/>
+         </a>
+         <h4>
+          <a href="/saluteebenessere/notizie/rubriche/speciali/2016/10/06/farmaci-da-teva-italia-investimenti-per-140-mln-in-10-anni_33d462e9-1c9b-467e-bebf-e7df14d8a26e.html">
+           Farmaci: da Teva Italia investimenti per 140 mln in 10 anni
+          </a>
+         </h4>
+         <span>
+          Esportazioni pari a 95% produzione, 1.400 dipendenti
+         </span>
+        </div>
+        <div class="news">
+         <a class="rf" href="/saluteebenessere/notizie/rubriche/speciali/2016/10/06/oltre-340mila-accessi-per-linmp-lospedale-dei-poveri_f18ca720-aea2-4b2b-a5c7-d9130a98e170.html">
+          <img alt="Oltre 340mila accessi per l'Inmp, l''ospedale dei poveri'" class="small" src="/webimages/hp_90/2016/10/6/931db254b1da6962e3f722fd78e0d5a6.jpg" title="Oltre 340mila accessi per l'Inmp, l''ospedale dei poveri'"/>
+         </a>
+         <h4>
+          <a href="/saluteebenessere/notizie/rubriche/speciali/2016/10/06/oltre-340mila-accessi-per-linmp-lospedale-dei-poveri_f18ca720-aea2-4b2b-a5c7-d9130a98e170.html">
+           Oltre 340mila accessi per l'Inmp, l''ospedale dei poveri'
+          </a>
+         </h4>
+         <span>
+          Per 2016 finanziati anche quattro progetti di medicina sociale
+         </span>
+        </div>
+        <div class="news">
+         <a class="rf" href="/saluteebenessere/notizie/rubriche/speciali/2016/09/29/bpco-mozza-il-fiato-a-65-mln-persone-nel-mondo-in-crescita_bc317148-08f5-481e-a05a-5d889e9069cd.html">
+          <img alt="" class="small" src="/webimages/hp_90/2015/8/29/2785e7be6b07652c766f38f86a69e07c.jpg" title=""/>
+         </a>
+         <h4>
+          <a href="/saluteebenessere/notizie/rubriche/speciali/2016/09/29/bpco-mozza-il-fiato-a-65-mln-persone-nel-mondo-in-crescita_bc317148-08f5-481e-a05a-5d889e9069cd.html">
+           Bpco mozza il fiato a 65 mln persone nel mondo, in crescita
+          </a>
+         </h4>
+         <span>
+          Nuovo farmaco unico in approvazione, sul mercato in 12-18 mesi
+         </span>
+        </div>
+       </div>
+       <div class="archivio">
+        <a href="/saluteebenessere/notizie/rubriche/speciali/speciali.shtml">
+         Vai alla rubrica
+        </a>
+       </div>
+      </div>
+      <div class="subcover dossier">
+       <h3>
+        Centri di Eccellenza
+       </h3>
+       <div class="lst-element">
+        <ul>
+         <li>
+          <a href="/saluteebenessere/notizie/centridieccellenza/oncologia/oncologia.shtml">
+           Oncologia
+          </a>
+         </li>
+         <li>
+          <a href="/saluteebenessere/notizie/centridieccellenza/pediatria/pediatria.shtml">
+           Pediatria
+          </a>
+         </li>
+         <li>
+          <a href="/saluteebenessere/notizie/centridieccellenza/cardiologia/cardiologia.shtml">
+           Cardiologia
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="subcover dossier">
+       <h3>
+        Link Utili
+       </h3>
+       <div class="lst-element">
+        <ul>
+         <li>
+          <a href="http://www.sanita.it/" rel="nofollow">
+           Ministero della Salute
+          </a>
+         </li>
+         <li>
+          <a href="http://www.iss.it/" rel="nofollow">
+           Istituto Superiore di Sanita'
+          </a>
+         </li>
+         <li>
+          <a href="http://www.who.int/" rel="nofollow">
+           Organizzazione Mondiale della Sanita'
+          </a>
+         </li>
+         <li>
+          <a href="http://www.agenas.it/" rel="nofollow">
+           Agenzia per i Servizi Sanitari Regionali
+          </a>
+         </li>
+         <li>
+          <a href="http://www.ispesl.it/" rel="nofollow">
+           Istituto per la Prevenzione e la Salute dei Lavoratori
+          </a>
+         </li>
+         <li>
+          <a href="http://www.anlaids.it/" rel="nofollow">
+           Associazione italiana per la lotta all'Aids
+          </a>
+         </li>
+         <li>
+          <a href="http://www.fda.gov/" rel="nofollow">
+           Food and Drug Administration americana, ente registrazione farmaci usa
+          </a>
+         </li>
+         <li>
+          <a href="http://www.nih.gov/" rel="nofollow">
+           Istituto della Sanita' Americana
+          </a>
+         </li>
+         <li>
+          <a href="http://www.cancer.gov" rel="nofollow">
+           Istituto Nazionale del Cancro USA
+          </a>
+         </li>
+         <li>
+          <a href="http://sip.it/" rel="nofollow">
+           Società italiana di pediatria
+          </a>
+         </li>
+         <li>
+          <a href="http://www.ospedalebambinogesu.it/" rel="nofollow">
+           Ospedale Bambino Gesù
+          </a>
+         </li>
+         <li>
+          <a href="http://www.fimmg.it/" rel="nofollow">
+           Sindacato dei Medici di Famiglia Italiani
+          </a>
+         </li>
+         <li>
+          <a href="http://www.burlo.trieste.it/" rel="nofollow">
+           IRCCS Burlo Garofolo Trieste
+          </a>
+         </li>
+         <li>
+          <a href="http://www.agenziafarmaco.gov.it/" rel="nofollow">
+           AIFA Agenzia Italiana del Farmaco
+          </a>
+         </li>
+         <li>
+          <a href="http://www.spiweb.it/" rel="nofollow">
+           Società Psicoanalitica Italiana
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <!-- div class="adv">
+<a href="http://www.viaggiart.com/get/it/app.html" rel="external nofollow"><img src="/canale_viaggiart/img/banner/banner_300x250_ansaviaggiart.gif" alt="" /></a>
+</div -->
+     </div>
+     <!-- /.col-3 -->
+    </div>
+    <!-- /wrap -->
+    <!-- footer -->
+    <div id="footer">
+     <div class="logo-canale-footer">
+      <a href="/saluteebenessere/" title="Home Canale Salute e Benessere">
+       <img alt="Canale Salute e Benessere" src="/saluteebenessere/images/logo_canale_footer.png"/>
+      </a>
+     </div>
+     <div class="wrap">
+      <span class="copy">
+       P.I. 00876481003 - © Copyright ANSA - Tutti i diritti riservati
+      </span>
+      <div class="nav-footer">
+       <a href="/">
+        ANSA.it
+       </a>
+       |
+       <a href="/prodotti/contattaci.jsp">
+        Contatti
+       </a>
+       |
+       <a href="/web/static/disclaimer.html">
+        Disclaimer
+       </a>
+       |
+       <a href="/web/static/privacy.html">
+        Privacy
+       </a>
+       |
+       <a href="/web/static/copyright.html">
+        Copyright
+       </a>
+      </div>
+     </div>
+     <!-- /wrap -->
+    </div>
+    <!-- /footer -->
+    <!-- /.footer -->
+   </div>
+   <!-- /.Bk -->
+   <!-- adv top -->
+   <div class="adv adv-top-page">
+    <div class="l-adv adv728">
+     <div id="banner728x90top">
+     </div>
+    </div>
+    <div class="r-adv">
+     <div id="banner234x90head">
+     </div>
+    </div>
+   </div>
+   <div id="banner988x90c0">
+   </div>
+   <!-- script src="http://js.revsci.net/gateway/gw.js?csid=F11190&auto=t"></script -->
+   <!--
+<script type="text/javascript" src="/sito/js/cookiechoices.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('Questo sito utilizza i cookie per migliorare servizi ed esperienza dei lettori. Se decidi di continuare la navigazione consideriamo che accetti il loro uso.',
+        'Chiudi', 'Maggiori Informazioni', 'http://www.ansa.it/sito/static/privacy.html');
+  });
+</script>
+-->
+   <link href="/sito/js/jquery.cookiebar/jquery.cookiebar.css" rel="stylesheet" type="text/css"/>
+   <script src="/sito/js/jquery.cookiebar/jquery.cookiebar.js" type="text/javascript">
+   </script>
+   <!--
+message: 'We use cookies to track usage and preferences',
+acceptButton: true,
+acceptText: 'I Understand',
+declineButton: false,
+declineText: 'Disable Cookies',
+policyButton: true,
+policyText: 'Privacy Policy',
+policyURL: '/privacy-policy/',
+autoEnable: true,
+acceptOnContinue: false,
+expireDays: 365,
+forceShow: false,
+effect: 'slide',
+element: 'body',
+append: false,
+fixed: false,
+bottom: false,
+zindex: '',
+redirect: '/',
+domain: 'www.example.com',
+referrer: 'www.example.com'
+-->
+   <script>
+    var isMobile = {
+	TabletAndroid : function() {
+		return navigator.userAgent.match(/Android/i) && ! navigator.userAgent.match(/Mobile/i) ? true : false;
+	},
+	Android : function() {
+		return navigator.userAgent.match(/Android/i) ? true : false;
+	},
+	BlackBerry : function() {
+		return navigator.userAgent.match(/BlackBerry/i) ? true : false;
+	},
+	iOS : function() {
+		return navigator.userAgent.match(/iPhone|iPad|iPod/i) ? true : false;
+	},
+	iOSold : function() {
+		return (navigator.userAgent.match(/iPhone/i) && navigator.userAgent.match(/3.0 Mobile/i)) ? true : false;
+	},
+	Windows : function() {
+		return navigator.userAgent.match(/IEMobile/i) ? true : false;
+	},
+	any : function() {
+		return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Windows() || isMobile.iOSold());
+	}
+};
+
+//var userMsg = !isMobile.any() ? 'Questo sito utilizza i cookie per migliorare servizi ed esperienza dei lettori. Se decidi di continuare la navigazione consideriamo che accetti il loro uso.' : 'Se continui la navigazione accetti uso dei cookies';
+
+var userMsg = 'Questo sito utilizza cookie, anche di terze parti, a scopi pubblicitari e per migliorare servizi ed esperienza dei lettori. Per maggiori informazioni o negare il consenso, leggi l\'informativa estesa. Se decidi di continuare la navigazione consideriamo che accetti il loro uso.';
+
+$.cookieBar(
+	{
+		message: userMsg,
+		policyURL: '/sito/static/privacy.html#Cookies',
+		policyButton: true,
+		policyText: 'Informativa estesa',
+		acceptOnContinue: true,
+		acceptText: 'Ok',
+		//forceShow: true,
+	}
+);
+   </script>
+   <script type="text/javascript">
+    <!--
+
+// Inizio Audience Science
+var rsi_segs = [];
+var segs_beg=document.cookie.indexOf('rsi_segs=');
+if(segs_beg>=0){
+                    segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+                    if(segs_beg>0){
+                                         var segs_end=document.cookie.indexOf(';',segs_beg);
+                                         if(segs_end==-1) segs_end=document.cookie.length;
+                                         rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+                    }
+}
+var segLen=20;
+var segQS = "";              
+if(rsi_segs.length < segLen){segLen=rsi_segs.length}
+for (var i=0; i<segLen; i++){
+                    segQS+= ("rsi"+"="+rsi_segs[i]+";");
+}
+// Fine Audience Science
+//-->
+   </script>
+   <!-- DOT&AD BASE TAG START //-->
+   <script id="DotnAdsBase" language="javascript" src="http://tiscali.js.ad.dotandad.com/TiscaliAds.js" type="text/javascript">
+   </script>
+   <script id="TiscaliAds" language="javascript" type="text/javascript">
+    <!--
+  var TiscaliAdArray=getADinfo(document.location, adv_banner_home, adv_banner_default, adv_banner);
+  var TiscaliAdInternal=isInternal(document.location);
+
+  //alert(document.location +' ismain='+ isMain(document.location) +' channel='+ TiscaliAdArray.TChannel +' home='+ adv_banner_home.TChannel);
+
+  var dotnAd=new DotnAds();
+  dotnAd.setTBrand(TiscaliAdArray.TBrand);
+  dotnAd.setTChannel(TiscaliAdArray.TChannel);
+  dotnAd.setTSection(TiscaliAdArray.TSection);
+  dotnAd.setTSubSection(TiscaliAdArray.TSubSection);
+  dotnAd.setFunGen(TiscaliAdArray.FunGen);
+  
+  //passare qui eventuali keyword settando la variabile dotnKeyword
+  try {
+    dotnAd.setKeywords(dotnKeyword);
+  } catch(e) {
+  }
+  dotnAd.callAdserver();
+
+  /* cookieAccepted */
+  var userAccept = $.cookie('cb-enabled');
+  var cookieAccepted = (userAccept != null && userAccept.indexOf('accepted')!=-1);
+
+  /* withinCMS */
+  function withinCMS() {
+     if ( typeof isCMS === 'undefined') {
+      return false;
+    } else {
+      return true;
+    }
+  }
+
+  var isOpera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+  function moveADBanner(id) {
+   if (!withinCMS()) {
+    var target = document.getElementById('banner'+id);
+    var source = document.getElementById('banner'+id+'hide');
+
+    if (target && source) {
+      if (isOpera) {
+        target.innerHTML=source.innerHTML;
+        source.innerHTML='';
+      } else {
+        target.innerHTML='';
+        target.appendChild(source);
+        source.style.display='block';   
+      }
+    }
+   }
+  }
+
+  //var ie7 = (document.all && !window.opera && window.XMLHttpRequest) ? 1 : 0;
+  var ie7 = (document.all && !document.querySelector) ? 1 : 0;
+  function moveChildADBanner(id, source) {
+   if (!withinCMS()) {
+    //try {
+      var target = document.getElementById('banner'+id);
+
+      if (target && source) {
+        if (isOpera || ie7) {
+          target.innerHTML=source.innerHTML;
+          source.innerHTML='';
+        } else {
+          target.innerHTML='';
+          target.appendChild(source);
+          source.style.display='block';   
+        }
+      }
+    //} catch (err) {
+    //  alert("Error is : "  + err.description + " <br>Error number is " + err.number);
+    //}
+   }
+  }
+//-->
+   </script>
+   <!-- DOT&AD BASE TAG END //-->
+   <!-- DIV hide -->
+   <div id="banner988x90c0hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner988x90c0"))      { dotnAd.showAd2("988x90",  "custom" ); }
+    </script>
+   </div>
+   <div id="banner760x30_tophide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner760x30_top"))    { dotnAd.showAd2("988x90",  "custom1"); }
+    </script>
+   </div>
+   <div id="banner760x30_bothide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner760x30_bot"))    { dotnAd.showAd2("988x90",  "custom2"); }
+    </script>
+   </div>
+   <div id="banner728x90tophide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner728x90top"))     { dotnAd.showAd2("728x90",  "top"   ); }
+    </script>
+   </div>
+   <div id="banner234x90headhide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner234x90head"))    { dotnAd.showAd2("234x90",  "head"  ); }
+    </script>
+   </div>
+   <div id="banner970x30striphide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner970x30strip"))   { dotnAd.showAd2("984x45",  "strip" ); }
+    </script>
+   </div>
+   <div id="banner1000x90strip1hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner1000x90strip1")) { dotnAd.showAd2("1000x90", "strip1"); }
+    </script>
+   </div>
+   <div id="banner285x45chide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner285x45c"))       { dotnAd.showAd2("285x45",  "c"     ); }
+    </script>
+   </div>
+   <div id="banner300x160r15hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x160r15"))    { dotnAd.showAd2("300x160", "r15"   ); }
+    </script>
+   </div>
+   <div id="banner300x250r14hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x250r14")) {
+  if (TiscaliAdInternal==true) dotnAd.showAd2("300x250,300x600","r14");
+  else                         dotnAd.showAd2("300x250",        "r14");
+}
+    </script>
+   </div>
+   <div id="banner300x250c20hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x250c20")) {
+  if (TiscaliAdInternal==true) dotnAd.showAd2("300x250,300x600","c20");
+  else                         dotnAd.showAd2("300x250",        "c20");
+}
+    </script>
+   </div>
+   <div id="banner300x250r15hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x250r15"))     { dotnAd.showAd2("300x250,300x600" ,"r15"); }
+    </script>
+   </div>
+   <div id="banner300x60ahide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x60a"))     { dotnAd.showAd2("300x60" ,"casa"); }
+    </script>
+   </div>
+   <div id="banner300x60bhide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x60b"))     { dotnAd.showAd2("300x60" ,"vd"  ); }
+    </script>
+   </div>
+   <div id="banner300x60chide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x60c"))     { dotnAd.showAd2("300x60" ,"c7"  ); }
+    </script>
+   </div>
+   <div id="banner300x100ahide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x100a")) { dotnAd.showAd2("300x100","casa"); }
+    </script>
+   </div>
+   <div id="banner300x100vdhide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x100vd"))   { dotnAd.showAd2("300x100","vd"  ); }
+    </script>
+   </div>
+   <div id="banner100x100c1hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c1")) { dotnAd.showAd2("304x450","c1"); }
+    </script>
+   </div>
+   <div id="banner100x100c2hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c2")) { dotnAd.showAd2("304x450","c2"); }
+    </script>
+   </div>
+   <div id="banner100x100c3hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c3")) { dotnAd.showAd2("304x450","c3"); }
+    </script>
+   </div>
+   <div id="banner100x100c4hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c4")) { dotnAd.showAd2("304x450","c4"); }
+    </script>
+   </div>
+   <div id="banner100x100c5hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c5")) { dotnAd.showAd2("304x450","c5"); }
+    </script>
+   </div>
+   <div id="banner100x100c6hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c6")) { dotnAd.showAd2("304x450","c6"); }
+    </script>
+   </div>
+   <div id="banner100x100c7hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c7")) { dotnAd.showAd2("304x450","c7"); }
+    </script>
+   </div>
+   <div id="banner984x45striphide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner984x45strip"))   { dotnAd.showAd2("984x45",  "strip" ); }
+    </script>
+   </div>
+   <div id="banner320x50hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner320x50"))   { dotnAd.showAd2("320x50", "head" ); }
+    </script>
+   </div>
+   <!-- DIV move -->
+   <script type="text/javascript">
+    moveADBanner('988x90c0');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('760x30_top');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('760x30_bot');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('728x90top');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('234x90head');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('970x30strip');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('1000x90strip1');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('285x45c');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x160r15');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x250r14');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x250c20');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x250r15');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x60a');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x60b');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x60c');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x100a');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x100vd');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c1');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c2');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c3');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c4');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c5');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c6');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c7');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('984x45strip');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('320x50');
+   </script>
+   <script type="text/javascript">
+    if (typeof(stripOff) != 'undefined') flashNEWS=true;
+   </script>
+   <!-- Google Analytics -->
+   <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    _uacct = "UA-950299-1";
+urchinTracker();
+   </script>
+   <!-- Webtrekk 3.1.5, (c) www.webtrekk.com -->
+   <script src="http://webcenter.tiscali.it/distribuzione/_script/webtrekk_v3.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    <!--
+var pageConfig = {
+	linkTrack : "", 	// Attivare la rilevazione dei LINK ["link" o "standard"]
+	heatmap : "", 		// Attivare la rilevazione della HEATMAP ["1" = on | "0" = off]
+	form : "",		// Attivare la rilevazione dei FORM ["1" = on | "0" = off]
+	contentId : location.href		// variabile che popola l'oggetto PAGES (di soluto = location.href)
+};
+var wt = new webtrekkV3(pageConfig);
+wt.contentGroup = {
+1 : "ANSA.IT" //sito
+};
+wt.sendinfo();
+//-->
+   </script>
+   <noscript>
+    <div>
+     <img alt="" height="1" src="http://tiscaliadv01.webtrekk.net/245406294797569/wt.pl?p=315,0" width="1"/>
+    </div>
+   </noscript>
+   <!-- /Webtrekk -->
+   <!-- START Nielsen Online SiteCensus V6.0 -->
+   <!-- COPYRIGHT 2012 Nielsen Online -->
+   <script src="//secure-it.imrworldwide.com/v60.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    var pvar = { cid: "veesible-it", content: "0", server: "secure-it" };
+ var feat = { check_cookie: 0 };
+ var trac = nol_t(pvar, feat);
+ trac.record().post();
+   </script>
+   <noscript>
+    <div>
+     <img alt="" height="1" src="//secure-it.imrworldwide.com/cgi-bin/m?ci=veesible-it&amp;cg=0&amp;cc=0&amp;ts=noscript" width="1"/>
+    </div>
+   </noscript>
+   <!-- END Nielsen Online SiteCensus V6.0 -->
+   <!-- Begin comScore Tag -->
+   <script type="text/javascript">
+    var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18389568" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+   </script>
+   <noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=18389568&amp;cv=2.0&amp;cj=1"/>
+   </noscript>
+   <!-- End comScore Tag -->
+   <!-- /#adv top -->
+  </div>
+  <script type="text/javascript">
+   <!-- TextSize  -->
+  if ( $("#mytextsize").length > 0 ) 
+  	$('#mytextsize').atextsize();
+  </script>
+  <!-- /.pg -->
+ </body>
+</html>
+

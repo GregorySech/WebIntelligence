@@ -1,0 +1,33 @@
+ASSIGNMENT 1:
+
+Parte A - Raccolta:
+
+a.1) scegliere un sito web di notizie in inglese. Si consiglia di preferire quelli che consentono la navigazione dell’archivio per facilitare l’attività di raccolta
+
+a.2) eseguire il download di almeno 1000 pagine contenenti notizie e salvare il testo della notizia in file di testo. Ricordarsi di utilizzare dei ritardi ed evitare di scaricare più volte la stessa pagina
+
+Parte B - Raccomandazione:
+
+b.1) trovare le 500 parole più frequenti e tracciare (con OpenOffice o altro) un grafico frequenza (asse Y) rank (asse X)
+
+b.2) eliminare le stopword comuni ed i termini più frequenti ma non significativi tra quelli trovati in b.1, sostituire le parole con i relativi lemmi (funzione lemmatize) e tracciare nuovamente il grafico
+
+b.3) costruire un content based recommender utilizzando gensim (utilizzare TF-IDF e distanza coseno).  Scegliere 20 articoli di proprio interesse per costruire il profilo dell'utente e produrre una lista di raccomandazioni basata su di essi. Commentare i risultati.
+
+Parte C - Riduzione dimensionale:
+
+c.1) ripetere b.3 applicando LSI con almeno 3 valori diversi di k. Mostrare anche i topic individuati per ciascun valore di k
+
+Dovranno essere consegnati i codici sorgente (unico file ZIP), i file con il testo delle notizie (no HTML, codifica UTF8, unico file zip) ed una relazione (PDF) che descriva l’attività svolta ed i risultati ottenuti. Il codice sorgente deve essere documentato solamente utilizzando commenti all’interno dei rispettivi file.
+
+Nomi dei file: 2017_E1_matricola_codice.zip ,  2017_E1_matricola_testi.zip , 2017_E1_matricola.pdf
+
+Matricola deve essere sostituito dal numero di matricola.
+Es: 2017_E1_737373_codice.zip
+
+
+USEFUL STUFF:
+----------------------------------------------------------
+//*[@id="verge"]/div[2]/div[4]/div[1]/ul/li[1]/div/h3/a
+----------------------------------------------------------
+xpath to title

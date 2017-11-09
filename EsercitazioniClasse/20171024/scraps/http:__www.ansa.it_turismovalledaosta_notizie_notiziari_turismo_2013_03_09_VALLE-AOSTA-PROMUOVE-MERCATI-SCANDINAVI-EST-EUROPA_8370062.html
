@@ -1,0 +1,1105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="it" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   Valle d'Aosta si promuove su mercati scandinavi e est-Europa - Turismo &amp; Mercato - ANSA.it
+  </title>
+  <meta content="Valle d'Aosta si promuove su mercati scandinavi e est-Europa, , , Turismo e Mercato, Ansa" name="description"/>
+  <meta content="VALLE D AOSTA SI PROMUOVE SU MERCATI SCANDINAVI E EST-EUROPA" name="keywords"/>
+  <!-- meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" / -->
+  <meta content="Redazione ansa.it" name="autore"/>
+  <meta content="redazione.internet@ansa.it" name="email"/>
+  <meta content="ANSA.it" name="sender"/>
+  <link href="/turismovalledaosta/web/css/style_20120328.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+  <link href="/turismovalledaosta/web/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+  <!--[if IE 7]>
+<link rel="stylesheet" href="/turismovalledaosta/web/css/ie.css" type="text/css" media="screen" / >
+<![endif]-->
+  <!--[if lte IE 6]>
+<link rel="stylesheet" href="/turismovalledaosta/web/css/ie_lte6.css" type="text/css" media="screen" />
+<![endif]-->
+  <!--[if lt IE 6]>
+<link rel="stylesheet" href="/web/css/ie_lt6.css" type="text/css" media="screen" />
+<![endif]-->
+  <link href="/web/images/favicon.ico" rel="Shortcut Icon" type="image/ico"/>
+  <script src="/web/js/jquery-1.3.2.pack.js" type="text/javascript">
+  </script>
+  <!--OPEN_JS_ALL-->
+  <script src="/web/js/jquery.cookie.js" type="text/javascript">
+  </script>
+  <script src="/web/js/jquery.metadata.js" type="text/javascript">
+  </script>
+  <script src="/web/js/apager.js" type="text/javascript">
+  </script>
+  <script src="/web/js/ui.core.js" type="text/javascript">
+  </script>
+  <script src="/web/js/ui.accordion.js" type="text/javascript">
+  </script>
+  <script src="/web/js/jquery.selectboxes.js" type="text/javascript">
+  </script>
+  <script src="/web/js/jquery.atabs.js" type="text/javascript">
+  </script>
+  <script src="/web/js/jquery.atextsize.js" type="text/javascript">
+  </script>
+  <script src="/web/js/photoGallery.js" type="text/javascript">
+  </script>
+  <script src="/web/js/ansacounter.js" type="text/javascript">
+  </script>
+  <script src="/web/banner_js/tiscali_banner_array.js" type="text/javascript">
+  </script>
+  <script src="/web/banner_js/ansa_banner_array.js" type="text/javascript">
+  </script>
+  <script src="/web/banner_js/banner_function.js" type="text/javascript">
+  </script>
+  <script src="/turismovalledaosta/web/js/main.js" type="text/javascript">
+  </script>
+  <!--CLOSE_JS_ALL-->
+  <script type="text/javascript">
+   //<![CDATA[
+ 
+var headLoaded=true;
+ 
+function getMeta(metaname) {
+    var metas = $("meta");
+    var i;
+    for (i = 0; i < metas.length; i++)
+    	if (metas[i].getAttribute("NAME") == metaname)
+	  break;
+    var content = metas[i].getAttribute("CONTENT");
+    return content;
+}
+//]]>
+  </script>
+  <script type="text/javascript">
+   var i = 1;
+	// Media Array
+	var mediaArray = new Array('',
+	
+	'');
+	var didArray = new Array("",
+	
+	"");
+  </script>
+ </head>
+ <body class="pg-special" id="www-ansa-it">
+  <div class="pg">
+   <!-- Bk -->
+   <div class="bk">
+    <!-- #header -->
+    <div class="header-agroalimentarelazio">
+     <div class="brand">
+      <div class="logo">
+       <a href="/" title="ANSA.it">
+        <img alt="Prima pagina: Ansa.it" src="/turismovalledaosta/web/images/logo_ansa_speciali.png"/>
+       </a>
+       <strong class="tagline">
+        Agenzia ANSA
+       </strong>
+      </div>
+     </div>
+     <div class="link-back">
+      <a href="/" title="Link per tornare sul sito ANSA.it">
+       <img alt="Link per tornare sul sito ANSA.it" src="/turismovalledaosta/web/images/back_to_ansa.png"/>
+      </a>
+     </div>
+    </div>
+    <!-- /header -->
+    <div class="header-cont">
+     <div class="logo-canale">
+      <a href="/inviaggio/" title="InViaggio">
+       <img alt="Home InViaggio" src="/turismovalledaosta/web/images/logo_inviaggio.png"/>
+      </a>
+      <a href="/turismovalledaosta/index.html" title="Turismo Valle d'Aosta">
+       <img alt="Home Turismo Valle d'Aosta" src="/turismovalledaosta/web/images/logo_canale.png"/>
+      </a>
+      <h1 class="tagline">
+       Turismo Valle d'Aosta
+      </h1>
+     </div>
+     <div class="header-grey">
+      <span class="itdate">
+       <script type="text/javascript">
+        //<![CDATA[
+function Agg()
+{
+    this.length = Agg.arguments.length;
+    for (var i=0; i>this.length; i++)
+    {
+        this[i + 1] = Agg.arguments[i];
+    }
+}
+var gg = new Agg();
+    gg[0] = "Domenica";
+    gg[1] = "Luned&Igrave;";
+    gg[2] = "Marted&Igrave;";
+    gg[3] = "Mercoled&Igrave;";
+    gg[4] = "Gioved&Igrave;";
+    gg[5] = "Venerd&Igrave;";
+    gg[6] = "Sabato";
+var mm = new Agg();
+    mm[0]  = "Gen";
+    mm[1]  = "Feb";
+    mm[2]  = "Mar";
+    mm[3]  = "Apr";
+    mm[4]  = "Mag";
+    mm[5]  = "Giu";
+    mm[6]  = "Lug";
+    mm[7]  = "Ago";
+    mm[8]  = "Set";
+    mm[9]  = "Ott";
+    mm[10] = "Nov";
+    mm[11] = "Dic";
+var dd = new Date();
+
+min = dd.getMinutes();
+hour = dd.getHours(); 
+curr_min = min < 10 ? "0"+min : min;
+curr_hour = hour < 10 ? "0"+hour : hour;
+
+function itDate() 
+{
+	 // 21 Settembre 2009, 12:28
+	//data = dd.getDate() + " " + mm[(dd.getMonth())] + " " + dd.getFullYear() + ", " + dd.getHours() + ":" + dd.getMinutes();
+	data = "<strong>" + 
+		gg[(dd.getDay())] + 
+		", " + 
+		dd.getDate() + 
+		" " + mm[(dd.getMonth())] + " " + 
+		dd.getFullYear() + 
+		"</strong><em>" + curr_hour + ":" + curr_min + "</em> [<abbr title='Greenwich mean time' lang='it'>GMT</abbr> +1]";
+	return data
+       //$('#itdate').html(data);
+}
+document.write(itDate());
+//]]>
+       </script>
+      </span>
+      <div class="h-box rf" id="header-search">
+       <form action="/ricercaturaosta/index.jsp" id="form-search" method="post">
+        <fieldset class="field-hidden">
+         <input name="si" type="hidden" value="1"/>
+         <input name="ns" type="hidden" value="10"/>
+         <input name="sb" type="hidden" value="date"/>
+         <input name="lang" type="hidden" value="it"/>
+         <input name="home" type="hidden" value="/web"/>
+         <input name="search" type="hidden" value="1"/>
+         <input name="c" type="hidden" value="turaosta"/>
+        </fieldset>
+        <fieldset class="f-input">
+         <legend>
+          Cerca sul sito di Turismo Valle d'Aosta
+         </legend>
+         <label class="hide" for="qt">
+          Ricerca
+         </label>
+         <input class="text" id="qt" name="qt" type="text"/>
+         <input alt="cerca" class="bt-submit" name="cerca" onclick="document.form-search.submit(); return false;" src="/turismovalledaosta/web/images/bk_input.gif" type="image" value="cerca"/>
+        </fieldset>
+       </form>
+      </div>
+     </div>
+     <div id="nav-bar">
+      <ul id="nav-main">
+       <li id="on">
+        <a href="/turismovalledaosta/index.html" title="Torna alla homepage Turismo Valle d'Aosta">
+         home
+        </a>
+       </li>
+       <!-- li><a href="/turismovalledaosta/index.html" title="">galleria fotografica</a></li>
+    <li><a href="/turismovalledaosta/index.html" title="">video</a></li -->
+       <li class="link-extra">
+        <a href="/inviaggio/" title="">
+         InViaggio
+        </a>
+       </li>
+      </ul>
+     </div>
+     <!-- /nav-bar -->
+     <div id="nav-sub">
+      <ul class="p1-nav">
+       <li>
+        <a href="/turismovalledaosta/index.html" title="Torna alla homepage Turismo Valle d'Aosta">
+         Primopiano
+        </a>
+       </li>
+       <li>
+        <a href="/turismovalledaosta/notizie/rubriche/ultime/ultimeoggi.shtml" title="Ultime notizie">
+         Ultime Notizie
+        </a>
+       </li>
+       <!-- li><a href="/turismovalledaosta/web/notizie/notiziari/nouvelles/nouvellesoggi.shtml" title="Nouvelles">Nouvelles</a></li -->
+       <li>
+        <a href="/turismovalledaosta/notizie/notiziari/turismo/turismooggi.shtml" title="Turismo e Mercato">
+         Turismo e Mercato
+        </a>
+       </li>
+       <li>
+        <a href="/turismovalledaosta/notizie/notiziari/arte/arteoggi.shtml" title="Arte e Cultura">
+         Arte e Cultura
+        </a>
+       </li>
+       <li>
+        <a href="/turismovalledaosta/notizie/notiziari/spettacoli/spettacolioggi.shtml" title="Spettacoli e Sport">
+         Spettacoli e Sport
+        </a>
+       </li>
+       <li>
+        <a href="/turismovalledaosta/notizie/notiziari/ambiente/ambienteoggi.shtml" title="Ambiente">
+         Ambiente
+        </a>
+       </li>
+       <li>
+        <a href="/turismovalledaosta/notizie/notiziari/enogastronomia/enogastronomiaoggi.shtml" title="Enogastronomia">
+         Enogastronomia
+        </a>
+       </li>
+       <li>
+        <a href="/turismovalledaosta/notizie/rubriche/focus/focusoggi.shtml" title="Focus">
+         Focus
+        </a>
+       </li>
+       <li>
+        <a href="/turismovalledaosta/notizie/rubriche/itinerari/itinerarioggi.shtml" title="Itinerari">
+         Itinerari
+        </a>
+       </li>
+       <!-- li><a href="/turismovalledaosta/notizie/rubriche/focus/focusoggi.shtml" title="Speciali Event">Speciali Eventi</a></li -->
+      </ul>
+     </div>
+     <!-- /nav-sub -->
+    </div>
+    <!-- /.main-menu -->
+    <div class="wrap c-2" id="turismovalledaosta-news">
+     <div class="main-content">
+      <div class="path">
+       <span>
+        <em class="hide">
+         Percorso:
+        </em>
+        <a href="/web/">
+         ANSA
+        </a>
+        &gt;
+        <a href="/turismovalledaosta/index.html">
+         Turismo Valle d'Aosta
+        </a>
+        &gt;
+        <a href="/turismovalledaosta/notizie/notiziari/turismo/turismooggi.shtml">
+         Turismo &amp; Mercato
+        </a>
+        &gt; Valle d'Aosta si promuove su mercati scandinavi e est-Europa
+       </span>
+      </div>
+      <!-- /content -->
+      <div class="content article detail">
+       <div class="header-content">
+        <h1>
+         Valle d'Aosta si promuove su mercati scandinavi e est-Europa
+        </h1>
+        <h2>
+        </h2>
+        <span class="date">
+         09 marzo, 12:16
+        </span>
+       </div>
+       <ul class="skip-link">
+        <li>
+         <a href="#content-corpo">
+          salta direttamente al contenuto dell'articolo
+         </a>
+        </li>
+        <li>
+         <a href="#correlati">
+          salta al contenuto correlato
+         </a>
+        </li>
+       </ul>
+       <script type="text/javascript">
+        <!--
+		
+		function initToolbar(){
+			$("#main-commento-link").attr("value", document.location.href);
+			$("#main-redazione-link").attr("value", document.location.href);
+			
+			$("#main-commento-title").attr("value", document.title);
+			$("#main-redazione-title").attr("value", document.title);
+			
+			$("#main-commento-sender").attr("value", getMeta("sender"));
+			$("#main-redazione-sender").attr("value", getMeta("sender"));
+			
+			$("#main-redazione-author").attr("value", getMeta("autore"));
+			$("#main-redazione-emailauthor").attr("value", getMeta("email"));
+		}
+
+		//-->
+       </script>
+       <div class="tools-bar">
+        <div class="social-button">
+         <div style="width:80px;height:15px; float:left;">
+          <g:plusone size="medium">
+          </g:plusone>
+         </div>
+         <div style="width:90px;height:15px; float:left;">
+          <a class="twitter-share-button" data-count="horizontal" data-via="Agenzia_Ansa" href="http://twitter.com/share">
+          </a>
+         </div>
+         <div style="width:110px; height:15px; float:left;">
+          <div id="fb-root">
+          </div>
+          <script src="http://connect.facebook.net/it_IT/all.js#xfbml=1">
+          </script>
+          <fb:like action="recommend" colorscheme="light" font="" href="" layout="button_count" send="false" show_faces="true" width="90">
+          </fb:like>
+         </div>
+        </div>
+        <ul class="text-zoom" id="mytextsize">
+         <li class="hide">
+         </li>
+        </ul>
+        <ul class="utils">
+         <li class="b-indietro">
+          <a href="javascript:window.history.back();">
+           Indietro
+          </a>
+         </li>
+         <li class="b-stampa">
+          <a href="javascript:window.print();">
+           Stampa
+          </a>
+         </li>
+         <li class="b-invia">
+          <form action="/contribuzione/invia.jsp" id="FRMcommento" method="post">
+           <div>
+            <input id="main-commento-link" name="link" type="hidden" value=""/>
+            <input id="main-commento-title" name="title" type="hidden" value=""/>
+            <input id="main-commento-sender" name="sender" type="hidden" value=""/>
+            <input name="sc" type="hidden" value="1"/>
+            <a href="javascript:void(0)" onclick="$('#FRMcommento').submit()">
+             Invia
+            </a>
+           </div>
+          </form>
+         </li>
+         <li class="b-scrivi">
+          <form action="/contribuzione/invia.jsp" id="FRMautore" method="post">
+           <div>
+            <input id="main-redazione-link" name="link" type="hidden" value=""/>
+            <input id="main-redazione-title" name="title" type="hidden" value=""/>
+            <input id="main-redazione-sender" name="sender" type="hidden" value=""/>
+            <input id="main-redazione-author" name="author" type="hidden" value=""/>
+            <input id="main-redazione-emailauthor" name="emailauthor" type="hidden" value=""/>
+            <a href="javascript:void(0)" onclick="$('#FRMautore').submit()">
+             Scrivi alla redazione
+            </a>
+           </div>
+          </form>
+         </li>
+         <li class="b-suggest">
+          <a href="javascript:incConsigliata($('#suggerito', 'li a')); void(0);" id="buttonConsiglia" title="Suggerisci questa news agli altri navigatori">
+           Suggerisci (
+           <strong id="suggerito">
+           </strong>
+           )
+          </a>
+         </li>
+        </ul>
+       </div>
+       <!-- /tools-bar -->
+       <script type="text/javascript">
+        <!--
+	initToolbar();
+   //-->
+       </script>
+       <!-- 4w_net_content_start -->
+       <script src="http://platform.twitter.com/widgets.js" type="text/javascript">
+       </script>
+       <!--[if !IE 7] -->
+       <script type="text/javascript">
+        window.___gcfg = {lang: 'it'};
+
+
+$(document).ready(function(){
+
+  (function() {
+
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+
+    po.src = 'https://apis.google.com/js/platform.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+  })();
+});
+       </script>
+       <!-- [endif]-->
+       <div id="gallery">
+        <div class="gallery-photo">
+         <div class="nav-gallery">
+          <ul>
+           <li class="num-pag" id="galleryNumPage">
+            <strong>
+            </strong>
+           </li>
+           <li>
+            <a class="prev" href="javascript:prevImage()">
+             precedente
+            </a>
+           </li>
+           <li>
+            <a class="next" href="javascript:nextImage()">
+             successiva
+            </a>
+           </li>
+          </ul>
+         </div>
+         <!-- nav-gallery -->
+         <div class="news-photo home">
+          <a class="next" href="javascript:nextImage()">
+           <img alt="" id="mediaViewer" src="/web/images/trasp.gif" title=""/>
+          </a>
+          <em class="didascalia" id="imgdid">
+          </em>
+         </div>
+        </div>
+       </div>
+       <!-- /gallery -->
+       <div class="corpo" id="content-corpo">
+        <p>
+         (ANSA) - AOSTA, 09 MAR - Lanciare la destinazione Valle d'Aosta sui mercati turistici di Scandinavia ed Europa centro-orientale, in particolare Polonia e Repubblica Ceca, e' l'obiettivo di un programma di azioni promozionali condotto dall'Assessorato del turismo, di concerto con la Chambre valdotaine.
+         <br/>
+         <br/>
+         Per quanto riguarda la Scandinavia (Danimarca, Svezia, Norvegia e Finlandia), in particolare, si punta a promuovere il prodotto 'vacanza attiva' nei confronti dell'offerta turistica estiva della regione, e la possibilita' di abbinare le attivita' sportive, come il trekking o la mountain bike, ad un'accoglienza qualificata con proposte enogastronomiche di qualita' e all'insegna della tradizione.
+         <br/>
+         <br/>
+         Per i mercati di Polonia e Repubblica Ceca, invece, si mira ad incrementare il livello di notorieta' della regione alpina, a partire dagli sport invernali, prendendo in considerazione la possibilita' di proporre le localita' di fondo valle come base per vacanze itineranti a costi piu' contenuti, o periodi di bassa stagione nelle stazioni sciistiche.
+         <br/>
+         <br/>
+         Nel dettaglio, il piano di azioni promozionali, ideate e coordinate dalla societa' Htms International, prevede, per i mercati scandinavi, la partecipazione della Valle d'Aosta alla fiera di Helsinki per operatori del trade 'Outdoor Go to Eexpo', all'evento 'Academy VdA' in programma nel mese di giugno e ad azioni di sensibilizzazione nei confronti dei media, funzionali alla realizzazione di servizi giornalistici.
+         <br/>
+         <br/>
+         Per i mercati dell'Europa centro-orientale verra' attuata un'azione di co-marketing in collaborazione con la societa' Eni sulla rete di distributori di benzina in Polonia e Repubblica Ceca finalizzata ad accrescere la notorieta' della destinazione Valle d'Aosta nei confronti della potenziale clientela anche attraverso la messa in palio di soggiorni premio. Inoltre verranno realizzati un reportage televisivo sulla Valle d'Aosta a cura dell'emittente 'Nova Television' e un evento/incontro con gli operatori del trade a Praga. (ANSA).
+        </p>
+       </div>
+       <!-- /#corpo -->
+       <span class="copy">
+        RIPRODUZIONE RISERVATA  © Copyright ANSA
+       </span>
+       <script type="text/javascript">
+        showImage()
+       </script>
+       <!-- 4w_net_content_stop -->
+       <div class="tools-bar toolbar-fb">
+        <ul class="utils">
+         <li class="b-indietro">
+          <a href="javascript:window.history.back();">
+           Indietro
+          </a>
+         </li>
+         <li class="b-home">
+          <a href="/">
+           Home
+          </a>
+         </li>
+        </ul>
+        <dl class="social-services">
+         <dt>
+          condividi:
+         </dt>
+         <dd>
+          <script src="/web/js/share.js" type="text/javascript">
+          </script>
+         </dd>
+        </dl>
+       </div>
+       <!-- /tools-bar -->
+       <div class="text-link">
+        <script type="text/javascript">
+         //<![CDATA[
+		var V = String.fromCharCode(34);
+		var L = String.fromCharCode(60);
+		var G = String.fromCharCode(62);
+		document.write(L+'i'+'frame id='+V+'fwnetC660'+V+' src='+V+'http://feed.4wnet.com/feed.html.ashx?a=4021&amp;n=3&amp;c=http://www.ansa.it/web/css/4wnetstileB2_660_60x60.css&amp;u=REF&amp;x=b&amp;hd=2&amp;i=1&amp;iw=60&amp;ih=60&amp;s=ansa_std_bottom_60x60'+V+' frameborder='+V+'0'+V+' scrolling='+V+'no'+V+' marginheight='+V+'0px'+V+' marginwidth='+V+'0px'+V+' height='+V+'120'+V+' width='+V+'660'+V+''+G+L+'/i'+'frame'+G);
+//]]>
+        </script>
+       </div>
+      </div>
+      <!-- /content -->
+     </div>
+     <!-- /main-content -->
+     <div class="extra">
+      <!-- banner 300x250 -->
+      <div class="adv" id="banner300x250r14">
+      </div>
+      <!-- /#banner 300x250 -->
+      <div class="subcover spot">
+       <a href="http://www.lovevda.it/" rel="nofollow" title="Vai al sito delle Regione Valle d'Aosta">
+        <img alt="Vai al sito delle Valle d'Aosta" src="/turismovalledaosta/web/images/adv/banner300x100_regionevalledaosta.png"/>
+       </a>
+      </div>
+      <!-- div class="subcover">
+<h3>Dossier</h3>
+    <div class="lst-element">
+            <ul>
+                <li><a href="http://www.agricoltura.regione.lazio.it/binary/agriweb/agriweb_lazio_informazione/lazioinforma_32_33_WEB.pdf" rel="nofollow">Dossier Lazio Informazione <span class="pdf-ico">- in formato PDF</span></a></li>
+                <li><a href="http://www.agricoltura.regione.lazio.it/binary/agriweb/agriweb_europa_rurale/Europa_Rurale_aprile_2.pdf" rel="nofollow">Dossier ER Europa Rurale <span class="pdf-ico">- in formato PDF</span></a></li>
+            </ul>
+  </div>
+</div -->
+      <!-- div  id="multifotoevidenza" class="subcover lbl {file: '/web/notizie/mondialisudafrica/news/photo_all.html', itemsForPage: 1, init:1, loadingHTML: ''}">
+  <h3>Galleria Fotografica</h3>
+  <div id="photo-daily-content">
+    <div id="multifotoevidenza-toolbar" class="nav-gallery">
+      <ul>
+        <li class="num-pag"><strong id="multifotoevidenza-num-pag"></strong></li>
+        <li><a class="prev" href="#">precedente</a></li>
+        <li><a class="next" href="#">successiva</a></li>
+      </ul>
+      <span>Galleria fotografica</span>
+    </div>
+    <div id="multifotoevidenza-page"> </div>
+  </div>
+  
+</div>
+
+<script type="text/javascript">
+  jQuery('#multifotoevidenza').apager();
+</script -->
+      <!-- div class="subcover">
+<h3>Link Utili</h3>
+    <div class="lst-element">
+            <ul>
+                <li><a href="http://www.arsial.regione.lazio.it/"  rel="nofollow">Arsial</a></li>
+                <li><a href="http://www.carrefour.lazio.it/"  rel="nofollow">Carrefour Lazio</a></li>
+                <li><a href="http://www.agriturismo.lazio.it/"  rel="nofollow">Agriturismo nel Lazio</a></li>
+                <li><a href="http://www.museirurali.lazio.it/"  rel="nofollow">Musei rurali nel Lazio</a></li>
+                <li><a href="http://www.noria.lazio.it"  rel="nofollow">NORIA</a></li>
+            </ul>
+    </div>
+</div -->
+     </div>
+     <!-- /.col-3 -->
+    </div>
+    <!-- /wrap -->
+    <!-- footer -->
+    <div id="footer">
+     <div class="logo-canale-footer">
+      <a href="/web/notizie/canali/inviaggio/viaggi.html" title="Home Canale Viaggi">
+       <img alt="Canale Viaggi" src="/web/notizie/canali/inviaggio/images/logo_canale_footer.png"/>
+      </a>
+     </div>
+     <div class="wrap">
+      <span class="copy">
+       P.I. 00876481003 - © Copyright ANSA - Tutti i diritti riservati
+      </span>
+      <div class="nav-footer">
+       <a href="/">
+        ANSA.it
+       </a>
+       |
+       <a href="/prodotti/contattaci.jsp">
+        Contatti
+       </a>
+       |
+       <a href="/web/static/disclaimer.html">
+        Disclaimer
+       </a>
+       |
+       <a href="/web/static/privacy.html">
+        Privacy
+       </a>
+       |
+       <a href="/web/static/copyright.html">
+        Copyright
+       </a>
+      </div>
+     </div>
+     <!-- /wrap -->
+    </div>
+    <!-- /footer -->
+    <!-- /.footer -->
+   </div>
+   <!-- /.Bk -->
+   <!-- adv top -->
+   <div class="adv adv-top-page">
+    <div class="l-adv adv728">
+     <div id="banner728x90top">
+     </div>
+    </div>
+    <div class="r-adv">
+     <div id="banner234x90head">
+     </div>
+    </div>
+   </div>
+   <!-- script src="http://js.revsci.net/gateway/gw.js?csid=F11190&auto=t"></script -->
+   <!--
+<script type="text/javascript" src="/sito/js/cookiechoices.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('Questo sito utilizza i cookie per migliorare servizi ed esperienza dei lettori. Se decidi di continuare la navigazione consideriamo che accetti il loro uso.',
+        'Chiudi', 'Maggiori Informazioni', 'http://www.ansa.it/sito/static/privacy.html');
+  });
+</script>
+-->
+   <link href="/sito/js/jquery.cookiebar/jquery.cookiebar.css" rel="stylesheet" type="text/css"/>
+   <script src="/sito/js/jquery.cookiebar/jquery.cookiebar.js" type="text/javascript">
+   </script>
+   <!--
+message: 'We use cookies to track usage and preferences',
+acceptButton: true,
+acceptText: 'I Understand',
+declineButton: false,
+declineText: 'Disable Cookies',
+policyButton: true,
+policyText: 'Privacy Policy',
+policyURL: '/privacy-policy/',
+autoEnable: true,
+acceptOnContinue: false,
+expireDays: 365,
+forceShow: false,
+effect: 'slide',
+element: 'body',
+append: false,
+fixed: false,
+bottom: false,
+zindex: '',
+redirect: '/',
+domain: 'www.example.com',
+referrer: 'www.example.com'
+-->
+   <script>
+    var isMobile = {
+	TabletAndroid : function() {
+		return navigator.userAgent.match(/Android/i) && ! navigator.userAgent.match(/Mobile/i) ? true : false;
+	},
+	Android : function() {
+		return navigator.userAgent.match(/Android/i) ? true : false;
+	},
+	BlackBerry : function() {
+		return navigator.userAgent.match(/BlackBerry/i) ? true : false;
+	},
+	iOS : function() {
+		return navigator.userAgent.match(/iPhone|iPad|iPod/i) ? true : false;
+	},
+	iOSold : function() {
+		return (navigator.userAgent.match(/iPhone/i) && navigator.userAgent.match(/3.0 Mobile/i)) ? true : false;
+	},
+	Windows : function() {
+		return navigator.userAgent.match(/IEMobile/i) ? true : false;
+	},
+	any : function() {
+		return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Windows() || isMobile.iOSold());
+	}
+};
+
+//var userMsg = !isMobile.any() ? 'Questo sito utilizza i cookie per migliorare servizi ed esperienza dei lettori. Se decidi di continuare la navigazione consideriamo che accetti il loro uso.' : 'Se continui la navigazione accetti uso dei cookies';
+
+var userMsg = 'Questo sito utilizza cookie, anche di terze parti, a scopi pubblicitari e per migliorare servizi ed esperienza dei lettori. Per maggiori informazioni o negare il consenso, leggi l\'informativa estesa. Se decidi di continuare la navigazione consideriamo che accetti il loro uso.';
+
+$.cookieBar(
+	{
+		message: userMsg,
+		policyURL: '/sito/static/privacy.html#Cookies',
+		policyButton: true,
+		policyText: 'Informativa estesa',
+		acceptOnContinue: true,
+		acceptText: 'Ok',
+		//forceShow: true,
+	}
+);
+   </script>
+   <script type="text/javascript">
+    <!--
+
+// Inizio Audience Science
+var rsi_segs = [];
+var segs_beg=document.cookie.indexOf('rsi_segs=');
+if(segs_beg>=0){
+                    segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+                    if(segs_beg>0){
+                                         var segs_end=document.cookie.indexOf(';',segs_beg);
+                                         if(segs_end==-1) segs_end=document.cookie.length;
+                                         rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+                    }
+}
+var segLen=20;
+var segQS = "";              
+if(rsi_segs.length < segLen){segLen=rsi_segs.length}
+for (var i=0; i<segLen; i++){
+                    segQS+= ("rsi"+"="+rsi_segs[i]+";");
+}
+// Fine Audience Science
+//-->
+   </script>
+   <!-- DOT&AD BASE TAG START //-->
+   <script id="DotnAdsBase" language="javascript" src="http://tiscali.js.ad.dotandad.com/TiscaliAds.js" type="text/javascript">
+   </script>
+   <script id="TiscaliAds" language="javascript" type="text/javascript">
+    <!--
+  var TiscaliAdArray=getADinfo(document.location, adv_banner_home, adv_banner_default, adv_banner);
+  var TiscaliAdInternal=isInternal(document.location);
+
+  //alert(document.location +' ismain='+ isMain(document.location) +' channel='+ TiscaliAdArray.TChannel +' home='+ adv_banner_home.TChannel);
+
+  var dotnAd=new DotnAds();
+  dotnAd.setTBrand(TiscaliAdArray.TBrand);
+  dotnAd.setTChannel(TiscaliAdArray.TChannel);
+  dotnAd.setTSection(TiscaliAdArray.TSection);
+  dotnAd.setTSubSection(TiscaliAdArray.TSubSection);
+  dotnAd.setFunGen(TiscaliAdArray.FunGen);
+  
+  //passare qui eventuali keyword settando la variabile dotnKeyword
+  try {
+    dotnAd.setKeywords(dotnKeyword);
+  } catch(e) {
+  }
+  dotnAd.callAdserver();
+
+  /* cookieAccepted */
+  var userAccept = $.cookie('cb-enabled');
+  var cookieAccepted = (userAccept != null && userAccept.indexOf('accepted')!=-1);
+
+  /* withinCMS */
+  function withinCMS() {
+     if ( typeof isCMS === 'undefined') {
+      return false;
+    } else {
+      return true;
+    }
+  }
+
+  var isOpera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+  function moveADBanner(id) {
+   if (!withinCMS()) {
+    var target = document.getElementById('banner'+id);
+    var source = document.getElementById('banner'+id+'hide');
+
+    if (target && source) {
+      if (isOpera) {
+        target.innerHTML=source.innerHTML;
+        source.innerHTML='';
+      } else {
+        target.innerHTML='';
+        target.appendChild(source);
+        source.style.display='block';   
+      }
+    }
+   }
+  }
+
+  //var ie7 = (document.all && !window.opera && window.XMLHttpRequest) ? 1 : 0;
+  var ie7 = (document.all && !document.querySelector) ? 1 : 0;
+  function moveChildADBanner(id, source) {
+   if (!withinCMS()) {
+    //try {
+      var target = document.getElementById('banner'+id);
+
+      if (target && source) {
+        if (isOpera || ie7) {
+          target.innerHTML=source.innerHTML;
+          source.innerHTML='';
+        } else {
+          target.innerHTML='';
+          target.appendChild(source);
+          source.style.display='block';   
+        }
+      }
+    //} catch (err) {
+    //  alert("Error is : "  + err.description + " <br>Error number is " + err.number);
+    //}
+   }
+  }
+//-->
+   </script>
+   <!-- DOT&AD BASE TAG END //-->
+   <!-- DIV hide -->
+   <div id="banner988x90c0hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner988x90c0"))      { dotnAd.showAd2("988x90",  "custom" ); }
+    </script>
+   </div>
+   <div id="banner760x30_tophide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner760x30_top"))    { dotnAd.showAd2("988x90",  "custom1"); }
+    </script>
+   </div>
+   <div id="banner760x30_bothide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner760x30_bot"))    { dotnAd.showAd2("988x90",  "custom2"); }
+    </script>
+   </div>
+   <div id="banner728x90tophide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner728x90top"))     { dotnAd.showAd2("728x90",  "top"   ); }
+    </script>
+   </div>
+   <div id="banner234x90headhide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner234x90head"))    { dotnAd.showAd2("234x90",  "head"  ); }
+    </script>
+   </div>
+   <div id="banner970x30striphide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner970x30strip"))   { dotnAd.showAd2("984x45",  "strip" ); }
+    </script>
+   </div>
+   <div id="banner1000x90strip1hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner1000x90strip1")) { dotnAd.showAd2("1000x90", "strip1"); }
+    </script>
+   </div>
+   <div id="banner285x45chide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner285x45c"))       { dotnAd.showAd2("285x45",  "c"     ); }
+    </script>
+   </div>
+   <div id="banner300x160r15hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x160r15"))    { dotnAd.showAd2("300x160", "r15"   ); }
+    </script>
+   </div>
+   <div id="banner300x250r14hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x250r14")) {
+  if (TiscaliAdInternal==true) dotnAd.showAd2("300x250,300x600","r14");
+  else                         dotnAd.showAd2("300x250",        "r14");
+}
+    </script>
+   </div>
+   <div id="banner300x250c20hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x250c20")) {
+  if (TiscaliAdInternal==true) dotnAd.showAd2("300x250,300x600","c20");
+  else                         dotnAd.showAd2("300x250",        "c20");
+}
+    </script>
+   </div>
+   <div id="banner300x250r15hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x250r15"))     { dotnAd.showAd2("300x250,300x600" ,"r15"); }
+    </script>
+   </div>
+   <div id="banner300x60ahide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x60a"))     { dotnAd.showAd2("300x60" ,"casa"); }
+    </script>
+   </div>
+   <div id="banner300x60bhide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x60b"))     { dotnAd.showAd2("300x60" ,"vd"  ); }
+    </script>
+   </div>
+   <div id="banner300x60chide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x60c"))     { dotnAd.showAd2("300x60" ,"c7"  ); }
+    </script>
+   </div>
+   <div id="banner300x100ahide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x100a")) { dotnAd.showAd2("300x100","casa"); }
+    </script>
+   </div>
+   <div id="banner300x100vdhide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner300x100vd"))   { dotnAd.showAd2("300x100","vd"  ); }
+    </script>
+   </div>
+   <div id="banner100x100c1hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c1")) { dotnAd.showAd2("304x450","c1"); }
+    </script>
+   </div>
+   <div id="banner100x100c2hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c2")) { dotnAd.showAd2("304x450","c2"); }
+    </script>
+   </div>
+   <div id="banner100x100c3hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c3")) { dotnAd.showAd2("304x450","c3"); }
+    </script>
+   </div>
+   <div id="banner100x100c4hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c4")) { dotnAd.showAd2("304x450","c4"); }
+    </script>
+   </div>
+   <div id="banner100x100c5hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c5")) { dotnAd.showAd2("304x450","c5"); }
+    </script>
+   </div>
+   <div id="banner100x100c6hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c6")) { dotnAd.showAd2("304x450","c6"); }
+    </script>
+   </div>
+   <div id="banner100x100c7hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c7")) { dotnAd.showAd2("304x450","c7"); }
+    </script>
+   </div>
+   <div id="banner984x45striphide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner984x45strip"))   { dotnAd.showAd2("984x45",  "strip" ); }
+    </script>
+   </div>
+   <div id="banner320x50hide" style="display:none;">
+    <script type="text/javascript">
+     if (cookieAccepted && !withinCMS() && document.getElementById("banner320x50"))   { dotnAd.showAd2("320x50", "head" ); }
+    </script>
+   </div>
+   <!-- DIV move -->
+   <script type="text/javascript">
+    moveADBanner('988x90c0');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('760x30_top');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('760x30_bot');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('728x90top');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('234x90head');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('970x30strip');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('1000x90strip1');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('285x45c');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x160r15');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x250r14');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x250c20');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x250r15');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x60a');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x60b');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x60c');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x100a');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('300x100vd');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c1');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c2');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c3');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c4');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c5');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c6');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('100x100c7');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('984x45strip');
+   </script>
+   <script type="text/javascript">
+    moveADBanner('320x50');
+   </script>
+   <script type="text/javascript">
+    if (typeof(stripOff) != 'undefined') flashNEWS=true;
+   </script>
+   <!-- Google Analytics -->
+   <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    _uacct = "UA-950299-1";
+urchinTracker();
+   </script>
+   <!-- Webtrekk 3.1.5, (c) www.webtrekk.com -->
+   <script src="http://webcenter.tiscali.it/distribuzione/_script/webtrekk_v3.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    <!--
+var pageConfig = {
+	linkTrack : "", 	// Attivare la rilevazione dei LINK ["link" o "standard"]
+	heatmap : "", 		// Attivare la rilevazione della HEATMAP ["1" = on | "0" = off]
+	form : "",		// Attivare la rilevazione dei FORM ["1" = on | "0" = off]
+	contentId : location.href		// variabile che popola l'oggetto PAGES (di soluto = location.href)
+};
+var wt = new webtrekkV3(pageConfig);
+wt.contentGroup = {
+1 : "ANSA.IT" //sito
+};
+wt.sendinfo();
+//-->
+   </script>
+   <noscript>
+    <div>
+     <img alt="" height="1" src="http://tiscaliadv01.webtrekk.net/245406294797569/wt.pl?p=315,0" width="1"/>
+    </div>
+   </noscript>
+   <!-- /Webtrekk -->
+   <!-- START Nielsen Online SiteCensus V6.0 -->
+   <!-- COPYRIGHT 2012 Nielsen Online -->
+   <script src="//secure-it.imrworldwide.com/v60.js" type="text/javascript">
+   </script>
+   <script type="text/javascript">
+    var pvar = { cid: "veesible-it", content: "0", server: "secure-it" };
+ var feat = { check_cookie: 0 };
+ var trac = nol_t(pvar, feat);
+ trac.record().post();
+   </script>
+   <noscript>
+    <div>
+     <img alt="" height="1" src="//secure-it.imrworldwide.com/cgi-bin/m?ci=veesible-it&amp;cg=0&amp;cc=0&amp;ts=noscript" width="1"/>
+    </div>
+   </noscript>
+   <!-- END Nielsen Online SiteCensus V6.0 -->
+   <!-- Begin comScore Tag -->
+   <script type="text/javascript">
+    var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18389568" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+   </script>
+   <noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=18389568&amp;cv=2.0&amp;cj=1"/>
+   </noscript>
+   <!-- End comScore Tag -->
+   <!-- /#adv top -->
+  </div>
+  <script type="text/javascript">
+   <!-- TextSize  -->
+  if ( $("#mytextsize").length > 0 ) 
+  	$('#mytextsize').atextsize();
+  </script>
+  <!-- /.pg -->
+ </body>
+</html>
+

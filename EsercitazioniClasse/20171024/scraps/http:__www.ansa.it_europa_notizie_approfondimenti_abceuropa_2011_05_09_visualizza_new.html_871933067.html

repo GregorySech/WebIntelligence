@@ -1,0 +1,1472 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="it" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <!-- meta http-equiv="Content-Language" content="it" / -->
+  <title>
+   La Corte dei Conti - L'ABC dell'Europa - ANSA Europa - ANSA.it
+  </title>
+  <meta content="La Corte dei Conti, Controlla e verifica la gestione finanziaria della Ue e delle sue istituzioni, , 01. L'ABC dell'Europa, Ansa" name="description"/>
+  <meta content="corte dei conti ue,conti,lussemburgo" name="keywords"/>
+  <!-- meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" / -->
+  <meta content="Redazione Ansa Europa ansa.it" name="autore"/>
+  <meta content="canale.europa@ansa.it" name="email"/>
+  <meta content="ANSA.it" name="sender"/>
+  <link href="/europa/css/style_europa_20170428.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+  <link href="/europa/css/print.css" media="print" rel="stylesheet" type="text/css"/>
+  <!--[if IE 7]>
+<link rel="stylesheet" href="/europa/css/ie.css" type="text/css" media="screen" / >
+<![endif]-->
+  <!--[if lte IE 6]>
+<link rel="stylesheet" href="/europa/css/ie_lte6.css" type="text/css" media="screen" />
+<![endif]-->
+  <!--[if lt IE 6]>
+<link rel="stylesheet" href="/web/css/ie_lt6.css" type="text/css" media="screen" />
+<![endif]-->
+  <link href="/web/images/favicon.ico" rel="Shortcut Icon" type="image/ico"/>
+  <script src="/web/js/jquery-1.3.2.pack.js" type="text/javascript">
+  </script>
+  <script src="/web/js/jquery.cookie.js" type="text/javascript">
+  </script>
+  <script src="/web/js/jquery.metadata.js" type="text/javascript">
+  </script>
+  <script src="/web/js/apager.js" type="text/javascript">
+  </script>
+  <script src="/web/js/ui.core.js" type="text/javascript">
+  </script>
+  <script src="/web/js/ui.accordion.js" type="text/javascript">
+  </script>
+  <script src="/web/js/jquery.atextsize.js" type="text/javascript">
+  </script>
+  <script src="/web/js/photoGallery.js" type="text/javascript">
+  </script>
+  <script src="/web/js/ansacounter.js" type="text/javascript">
+  </script>
+  <script src="/web/banner_js/tiscali_banner_array.js?v4" type="text/javascript">
+  </script>
+  <script src="/web/banner_js/ansa_banner_array.js" type="text/javascript">
+  </script>
+  <script src="/web/banner_js/banner_function.js?v3" type="text/javascript">
+  </script>
+  <script src="/europa/js/jquery.countdown.min.js" type="text/javascript">
+  </script>
+  <script src="/europa/js/main.js" type="text/javascript">
+  </script>
+  <!--CLOSE_JS_ALL-->
+  <script type="text/javascript">
+   //<![CDATA[
+ 
+var headLoaded=true;
+ 
+function getMeta(metaname) {
+    var metas = $("meta");
+    var i;
+    for (i = 0; i < metas.length; i++)
+    	if (metas[i].getAttribute("NAME") == metaname)
+	  break;
+    var content = metas[i].getAttribute("CONTENT");
+    return content;
+}
+//]]>
+  </script>
+  <script type="text/javascript">
+   jQuery().ready(function(){
+		
+		// first simple accordion with special markup
+		jQuery('#acc-hp').accordion({
+			header: 'div.title',
+			active: false,
+			alwaysOpen: true,
+			animated: false,
+			autoheight: false
+		});
+		
+		
+		
+		// bind to change event of select to control first and seconds accordion
+		// similar to tab's plugin triggerTab(), without an extra method
+		var accordions = jQuery('#list3');
+		
+		jQuery('#switch select').change(function() {
+			accordions.accordion("activate", this.selectedIndex-1 );
+		});
+		jQuery('#close').click(function() {
+			accordions.accordion("activate", -1);
+		});
+		jQuery('#switch2').change(function() {
+			accordions.accordion("activate", this.value);
+		});
+		jQuery('#enable').click(function() {
+			accordions.accordion("enable");
+		});
+		jQuery('#disable').click(function() {
+			accordions.accordion("disable");
+		});
+		jQuery('#remove').click(function() {
+			accordions.accordion("destroy");
+			wizardButtons.unbind("click");
+		});
+         var i = Math.random();
+         var random = Math.round(i * 9);
+
+         $("#acc-hp").accordion("activate", random);
+
+	});
+  </script>
+  <script language="javascript">
+   function toggle() {
+	var ele = document.getElementById("toggleText_agenda");
+	var text = document.getElementById("displayText_agenda");
+	if(ele.style.display == "block") {
+    		ele.style.display = "none";
+  	}
+	else {
+		ele.style.display = "block";
+	}
+}
+  </script>
+  <script language="javascript">
+   $(document).ready( function(){$('a:not([href^="http://www.ansa"],[href^="/"],[href^="mailto:"],[href^="?"],[href^="javascript"], [href^="#"], [href^="http://cms"])').attr('target','_blank');});
+ $(document).ready( function(){$('a[href^="/europa/forum"]').attr('target','_blank');});
+  </script>
+  <script type="text/javascript">
+   var i = 1;
+	// Media Array
+	var mediaArray = new Array('',
+	
+	'/webimages/foto_large/2017/2/13/404798e353015e57d6d4ef227bcb5b38.jpg',
+	
+	'');
+	var didArray = new Array("",
+	
+	"Il presidente della Corte dei Conti Ue, Klaus-Heiner Lehne - fonte: UE",
+	
+	"");
+  </script>
+ </head>
+ <body class="pg-special" id="www-ansa-it">
+  <div class="pg">
+   <!-- Bk -->
+   <div class="bk">
+    <!-- #header -->
+    <div class="header-europa">
+     <div class="brand">
+      <div class="logo">
+       <a href="/" title="ANSA.it">
+        <img alt="Prima pagina: Ansa.it" src="/europa/images/logo_ansa_speciali.png"/>
+       </a>
+       <strong class="tagline">
+        Agenzia ANSA
+       </strong>
+      </div>
+     </div>
+     <div class="link-back">
+      <a href="/" title="Link per tornare sul sito ANSA.it">
+       <img alt="Link per tornare sul sito ANSA.it" src="/europa/images/back_to_ansa.png"/>
+      </a>
+     </div>
+    </div>
+    <!-- /header -->
+    <div id="nav-bar">
+     <div class="logo-canale">
+      <a href="/europa/index.html" title="Ansa Europa">
+       <img height="97" idth="400" src="/europa/images/ban_link.png" w=""/>
+      </a>
+      <h1 class="tagline">
+       Ansa Europa
+      </h1>
+     </div>
+     <div class="h-box rf" id="header-search">
+      <form action="/ricerca/other/search.shtml" id="form-search" method="post">
+       <fieldset class="field-hidden">
+        <input name="sito" type="hidden" value="europa"/>
+       </fieldset>
+       <fieldset class="f-input">
+        <legend>
+         Cerca sul sito di Europa
+        </legend>
+        <label class="hide" for="qt">
+         Ricerca
+        </label>
+        <input class="text" id="qt" name="any" type="text"/>
+        <input alt="cerca" class="bt-submit" name="cerca" onclick="document.form-search.submit(); return false;" src="/europa/images/bk_input.png" type="image" value="cerca"/>
+       </fieldset>
+      </form>
+     </div>
+     <ul id="nav-main">
+      <li>
+       <a href="/europa/index.html" title="Torna alla homepage Ansa Europa">
+        Home
+       </a>
+      </li>
+      <li>
+       <a href="/europa/notizie/photogallery/photogallery.shtml" title="Galleria Fotografica">
+        Foto
+       </a>
+      </li>
+      <li>
+       <a href="/europa/notizie/videogallery/video.shtml" title="Videogallery">
+        Video
+       </a>
+      </li>
+      <li id="on">
+       <a href="/europa/abceuropa.shtml" title="Abc dell'Europa">
+        Abc dell'Europa
+       </a>
+      </li>
+      <li class="n-ext dropdown">
+       <a class="plus dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);" title="Piazza Europa">
+        <strong>
+         Piazza Europa
+        </strong>
+        <span class="icon">
+        </span>
+       </a>
+       <div class="p2-nav dropdown-menu">
+        <ul class="nav">
+         <li>
+          <a href="/europa/notizie/piazza_europa/giovani/index.shtml" title="L'Europa dei giovani">
+           L'Europa dei giovani
+          </a>
+         </li>
+         <li>
+          <a href="/europa/notizie/piazza_europa/clima/index.shtml" title="Cambiamenti climatici">
+           Cambiamenti climatici
+          </a>
+         </li>
+         <li>
+          <a href="/europa/notizie/piazza_europa/digitale/index.shtml" title="Società digitale">
+           Società digitale
+          </a>
+         </li>
+         <li>
+          <a href="/europa/notizie/piazza_europa/ue/index.shtml" title="Un'Unione per tutti">
+           Un'Unione per tutti
+          </a>
+         </li>
+         <li>
+          <a href="/europa/notizie/piazza_europa/migranti/index.shtml" title="I flussi migratori">
+           I flussi migratori
+          </a>
+         </li>
+         <li>
+          <a href="/europa/notizie/piazza_europa/sfide/index.shtml" title="Nuove sfide">
+           Nuove sfide
+          </a>
+         </li>
+        </ul>
+       </div>
+      </li>
+      <li class="n-ext dropdown">
+       <a class="plus dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);" style="background-color: #a50e18; color: #ffffff;" title="Piazza Europa">
+        <strong>
+         AgriUE
+        </strong>
+        <span class="icon">
+        </span>
+       </a>
+       <div class="p2-nav dropdown-menu">
+        <ul class="nav">
+         <li>
+          <a href="/europa/notizie/agri_ue/giovani/index.shtml" title="Giovani">
+           Giovani
+          </a>
+         </li>
+         <li>
+          <a href="/europa/notizie/agri_ue/innovazione/index.shtml" title="Innovazione">
+           Innovazione
+          </a>
+         </li>
+         <li>
+          <a href="/europa/notizie/agri_ue/ambiente/index.shtml" title="Ambiente">
+           Ambiente
+          </a>
+         </li>
+         <li>
+          <a href="/europa/notizie/agri_ue/qualita/index.shtml" title="Qualità">
+           Qualità
+          </a>
+         </li>
+         <li>
+          <a href="/europa/notizie/agri_ue/biologico/index.shtml" title="Biologico">
+           Biologico
+          </a>
+         </li>
+        </ul>
+       </div>
+      </li>
+     </ul>
+    </div>
+    <!-- /nav-bar -->
+    <div id="nav-sub">
+     <ul class="p1-nav">
+      <li>
+       <a href="/europa/abceuropa.shtml" title="ABC Europa">
+        L'ABC dell'Europa
+       </a>
+      </li>
+     </ul>
+    </div>
+    <!-- /nav-sub -->
+    <!-- /.main-menu -->
+    <div class="wrap c-2" id="europa-news">
+     <div class="main-content">
+      <div class="path">
+       <span>
+        <em class="hide">
+         Percorso:
+        </em>
+        <a href="/web/">
+         ANSA
+        </a>
+        &gt;
+        <a href="/europa/index.html">
+         Europa
+        </a>
+        &gt;
+        <a href="/europa/abceuropa.shtml">
+         L'abc dell'Europa
+        </a>
+        &gt; La Corte dei Conti
+       </span>
+      </div>
+      <!-- /content -->
+      <div class="content article detail">
+       <div class="header-content">
+        <h1>
+         La Corte dei Conti
+        </h1>
+        <h2>
+         Controlla e verifica la gestione finanziaria della Ue e delle sue istituzioni
+        </h2>
+       </div>
+       <ul class="skip-link">
+        <li>
+         <a href="#content-corpo">
+          salta direttamente al contenuto dell'articolo
+         </a>
+        </li>
+        <li>
+         <a href="#correlati">
+          salta al contenuto correlato
+         </a>
+        </li>
+       </ul>
+       <div class="multifoto" id="news-content">
+        <div class="nav-gallery">
+         <ul>
+          <li class="num-pag">
+           <strong id="numpage">
+           </strong>
+          </li>
+          <li>
+           <a class="prev" href="javascript:prevImage()">
+            precedente
+           </a>
+          </li>
+          <li>
+           <a class="next" href="javascript:nextImage()">
+            successiva
+           </a>
+          </li>
+         </ul>
+        </div>
+        <!-- nav-gallery -->
+        <div class="news-photo home">
+         <a href="javascript:nextImage()">
+          <img alt="Il presidente della Corte dei Conti Ue, Klaus-Heiner Lehne - fonte: UE" src="/webimages/foto_large/2017/2/13/404798e353015e57d6d4ef227bcb5b38.jpg"/>
+         </a>
+         <em class="didascalia">
+          Il presidente della Corte dei Conti Ue, Klaus-Heiner Lehne - fonte: UE
+         </em>
+        </div>
+       </div>
+       <!-- /news-content -->
+       <div id="gallery">
+        <div class="gallery-photo">
+         <div class="nav-gallery">
+          <ul>
+           <li class="num-pag" id="galleryNumPage">
+            <strong>
+            </strong>
+           </li>
+           <li>
+            <a class="prev" href="javascript:prevImage()">
+             precedente
+            </a>
+           </li>
+           <li>
+            <a class="next" href="javascript:nextImage()">
+             successiva
+            </a>
+           </li>
+          </ul>
+         </div>
+         <!-- nav-gallery -->
+         <div class="news-photo home">
+          <a class="next" href="javascript:nextImage()">
+           <img alt="" id="mediaViewer" src="/web/images/trasp.gif" title=""/>
+          </a>
+          <em class="didascalia" id="imgdid">
+          </em>
+         </div>
+        </div>
+       </div>
+       <!-- /gallery -->
+       <div class="corpo" id="content-corpo">
+        <p>
+         Istituita nel 1975, la
+         <a href="http://www.eca.europa.eu/it/Pages/ecadefault.aspx">
+          <strong>
+           Corte dei Conti
+          </strong>
+         </a>
+         entra in funzione due anni dopo in
+         <strong>
+          Lussemburgo
+         </strong>
+         , dove è ancora di casa, con il compito di controllare e verificare la gestione finanziaria della Ue e delle sue istituzioni. Solo con il Trattato di Maastricht del 1992 la Corte assume a sua volta il rango di istituzione Ue con l’onere collegato di dover pubblicare una DAS, Dichiarazione annuale sull'affidabilità e la regolarità dei conti dell'Unione. Con i successivi Trattati di Amsterdam, Nizza e Lisbona, sono aumentate le competenze di questa istituzione, che ora esercita il controllo di bilancio anche sulla politica estera e di sicurezza comune, sulla giustizia e gli affari interni e ha inoltre il potere di appello di fronte alla Corte di Giustizia Ue qualora ritenga che le sue prerogative siano state limitate dalle altre istituzioni comunitarie.
+        </p>
+        <p>
+        </p>
+        <p>
+         Nel concreto,
+         <strong>
+          la Corte dei Conti esamina tutte le entrate e le spese dell'Unione e dei suoi organi
+         </strong>
+         , controllandone la legittimità e la regolarità e accertandone la corretta gestione finanziaria. La verifica avviene tramite audit periodici, a carattere annuale, e audit selezionati in alcuni settori del bilancio o dei rendiconti di un settore specifico della politica comunitaria. Quando la Corte viene a conoscenza di un presunto caso di frode o corruzione, trasmette immediatamente l'informazione all'OLAF, l’Ufficio europeo per la lotta antifrode, che ha la responsabilità di svolgere indagini dettagliate e di prendere le dovute misure. Nel DAS, la Corte oltre a rendere nota la legittimità e regolarità dei conti dell'Ue si pronuncia anche sui principi di economicità, efficienza ed efficacia delle spese dell'Unione, in quello che viene chiamato “controllo della sana gestione finanziaria”. Al di là del ruolo da ‘controllore’, la Corte svolge anche un’importante funzione di consulenza sulle proposte legislative per combattere le frodi fiscali e le irregolarità finanziarie. Interviene inoltre, al servizio di Parlamento e Consiglio Ue, come consulente nell’esecuzione del bilancio comunitario.
+        </p>
+        <p>
+        </p>
+        <p>
+         I poteri della Corte non sono giurisdizionali, e i suoi pareri non sono quindi vincolanti, ma riveste comunque un ruolo di primaria importanza per il corretto funzionamento della macchinaria comunitaria. I membri sono uno per Stato membro della Ue, rimangono in carica per 6 anni, rinnovabili, e decidono a maggioranza all’interno del collegio, l'organo decisionale della Corte. Ogni tre anni viene eletto un Presidente, sorta di primus inter pares, a cui spetta il compito di coordinare i lavori e rappresentare l’istituzione nelle relazioni esterne. Il Presidente attuale è il portoghese Vítor Manuel da Silva Caldeira. Al Segretario generale spetta invece l’organizzazione dei 760 funzionari della Corte.
+        </p>
+        <p>
+        </p>
+       </div>
+       <!-- /#corpo -->
+       <span class="copy">
+        © Copyright ANSA - Tutti i diritti riservati
+       </span>
+       <script type="text/javascript">
+        showImage()
+       </script>
+       <!-- 4w_net_content_stop -->
+       <div class="tools-bar toolbar-fb">
+        <ul class="utils">
+         <li class="b-indietro">
+          <a href="javascript:window.history.back();">
+           Indietro
+          </a>
+         </li>
+         <li class="b-home">
+          <a href="/">
+           Home
+          </a>
+         </li>
+        </ul>
+        <dl class="social-services">
+         <dt>
+          condividi:
+         </dt>
+         <dd>
+          <script src="/web/js/share.js" type="text/javascript">
+          </script>
+         </dd>
+        </dl>
+       </div>
+       <!-- /tools-bar -->
+      </div>
+      <!-- /content -->
+     </div>
+     <!-- /main-content -->
+     <div class="extra">
+      <div class="socnet">
+       <div class="socnet-ico">
+        <a href="http://www.dailymotion.com/playlist/x3zufo_ANSA_ansa-europa/" title="dailyMotion">
+         <img alt="dailyMotion" src="/europa/images/icon_socnet/dailyMotion_icon.png"/>
+        </a>
+        <a href="https://www.facebook.com/pages/ANSA-Canale-Europa/190141131032201">
+         <img alt="Facebook" src="/europa/images/icon_socnet/facebook_icon.png" title="Facebook"/>
+        </a>
+        <a href="http://twitter.com/#!/ansaeuropa">
+         <img alt="Twitter" src="/europa/images/icon_socnet/twitter_icon.png" title="Twitter"/>
+        </a>
+        <a href="http://www.youtube.com/ansaeuropa">
+         <img alt="Youtube" src="/europa/images/icon_socnet/youtube_icon.png" title="Youtube"/>
+        </a>
+        <a href="/sito/static/ansa_rss.html">
+         <img alt="Rss" src="/europa/images/icon_socnet/rss_icon.png" title="Rss"/>
+        </a>
+       </div>
+      </div>
+      <div class="subcover">
+       <h3 style="background: url(/europa/images/bk_label_europa.png) no-repeat; height:30px;line-height:27px;">
+        Piazza Europa
+       </h3>
+       <div class="lst-element">
+        <div class="news">
+         <a class="rf" href="/europa/notizie/piazza_europa/sfide/2017/09/25/merkel-vince-ma-in-forte-calo-spd-crolla-lafd-vola-_084178b7-9a11-4c62-bbaa-827afdf36c4a.html">
+          <img alt="Merkel vince ma in forte calo, Spd crolla, l'Afd vola" class="small" src="/webimages/hp_90/2017/9/25/928d663fa547e2475222bfca387d2767.jpg" title="Merkel vince ma in forte calo, Spd crolla, l'Afd vola"/>
+         </a>
+         <h4>
+          <a href="/europa/notizie/piazza_europa/sfide/2017/09/25/merkel-vince-ma-in-forte-calo-spd-crolla-lafd-vola-_084178b7-9a11-4c62-bbaa-827afdf36c4a.html">
+           Merkel vince ma in forte calo, Spd crolla, l'Afd vola
+          </a>
+         </h4>
+         <span>
+          Schulz, 'Grosse Koalition finita'. Il governo ora è più complicato
+         </span>
+        </div>
+        <div class="news">
+         <a class="rf" href="/europa/notizie/piazza_europa/clima/2017/09/25/energia-e-battaglia-in-ue-su-sussidi-mercato-elettrico_99e5eda8-dd1b-40c0-a774-6d000d37742a.html">
+          <img alt="Energia: è battaglia in Ue su sussidi mercato elettrico" class="small" src="/webimages/hp_90/2014/9/17/b6225c320a74187bb220dacf905115b2.jpg" title="Energia: è battaglia in Ue su sussidi mercato elettrico"/>
+         </a>
+         <h4>
+          <a href="/europa/notizie/piazza_europa/clima/2017/09/25/energia-e-battaglia-in-ue-su-sussidi-mercato-elettrico_99e5eda8-dd1b-40c0-a774-6d000d37742a.html">
+           Energia: è battaglia in Ue su sussidi mercato elettrico
+          </a>
+         </h4>
+         <span>
+          Paesi contro stop aiuti carbone. Pressing 'Make Power Green'
+         </span>
+        </div>
+       </div>
+       <div class="menu-box-select">
+        <select class="select" name="menu" onchange="location = this.value;">
+         <option value="">
+          Vai alla Rubrica:
+         </option>
+         <option value="/europa/notizie/piazza_europa/giovani/index.shtml">
+          L'Europa dei giovani
+         </option>
+         <option value="/europa/notizie/piazza_europa/clima/index.shtml">
+          Cambiamenti climatici
+         </option>
+         <option value="/europa/notizie/piazza_europa/digitale/index.shtml">
+          Società digitale
+         </option>
+         <option value="/europa/notizie/piazza_europa/ue/index.shtml">
+          Un'Unione per tutti
+         </option>
+         <option value="/europa/notizie/piazza_europa/migranti/index.shtml">
+          I flussi migratori
+         </option>
+         <option value="/europa/notizie/piazza_europa/sfide/index.shtml">
+          Nuove sfide
+         </option>
+        </select>
+       </div>
+      </div>
+      <div class="subcover">
+       <h3 style="height:30px;line-height:30px;background: url(/europa/notizie/agri_ue/img/bk_label.jpg) no-repeat;">
+        AgriUE
+       </h3>
+       <div class="lst-element">
+        <div class="news">
+         <a class="rf" href="/europa/notizie/agri_ue/giovani/2017/10/17/giovani-e-agricoltura-la-diretta-facebook-con-lesperto-ue_2442dfe9-adfa-4382-93d7-903a125fd92b.html">
+          <img alt="Giovani e agricoltura, la diretta Facebook con l'esperto Ue" class="small" src="/webimages/hp_90/2014/8/1/d8e5c30db4506397003e4cf178134766.jpg" title="Giovani e agricoltura, la diretta Facebook con l'esperto Ue"/>
+         </a>
+         <h4>
+          <a href="/europa/notizie/agri_ue/giovani/2017/10/17/giovani-e-agricoltura-la-diretta-facebook-con-lesperto-ue_2442dfe9-adfa-4382-93d7-903a125fd92b.html">
+           Il forum ANSA Agri Ue su giovani e agricoltura
+          </a>
+         </h4>
+         <span>
+          Con Guido Castellano, secondo appuntamento video del progetto AgriUe
+         </span>
+        </div>
+        <div class="news">
+         <a class="rf" href="/europa/notizie/agri_ue/qualita/2017/10/18/a-treviso-convegno-su-dop-e-igp-da-tutto-il-mondo_a0f007a0-d7a3-4d53-987e-26027565e9f9.html">
+          <img alt="A Treviso convegno su Dop e Igp da tutto il mondo" class="small" src="/webimages/hp_90/2016/12/16/26a89a6f4931b0815c88fcc8c36c174a.jpg" title="A Treviso convegno su Dop e Igp da tutto il mondo"/>
+         </a>
+         <h4>
+          <a href="/europa/notizie/agri_ue/qualita/2017/10/18/a-treviso-convegno-su-dop-e-igp-da-tutto-il-mondo_a0f007a0-d7a3-4d53-987e-26027565e9f9.html">
+           A Treviso convegno su Dop e Igp da tutto il mondo
+          </a>
+         </h4>
+         <span>
+          Consorzio Prosecco ospita meeting internazionale
+         </span>
+        </div>
+       </div>
+       <div class="menu-box-select">
+        <select class="select" name="menu" onchange="location = this.value;">
+         <option value="">
+          Vai alla Rubrica:
+         </option>
+         <option value="/europa/notizie/agri_ue/giovani/index.shtml">
+          Giovani
+         </option>
+         <option value="/europa/notizie/agri_ue/innovazione/index.shtml">
+          Innovazione
+         </option>
+         <option value="/europa/notizie/agri_ue/ambiente/index.shtml">
+          Ambiente
+         </option>
+         <option value="/europa/notizie/agri_ue/qualita/index.shtml">
+          Qualità
+         </option>
+         <option value="/europa/notizie/agri_ue/biologico/index.shtml">
+          Biologico
+         </option>
+        </select>
+       </div>
+      </div>
+      <div class="subcover">
+       <h3 style="background: url(/europa/images/bk_label_europaregioni_v1.png?v1) no-repeat; height:30px;line-height:27px;color:#000;">
+        Europa Delle Regioni
+       </h3>
+       <div class="lst-element">
+        <div class="lst-element">
+         <ul>
+          <li>
+           <h4>
+            <a href="/europa/notizie/rubriche/europa_delle_regioni/2017/10/23/catalogna-juncker-rispetto-identita-ma-no-separatismi_5c73e57e-4866-4aa7-bb8b-5e7e6085e047.html">
+             Catalogna: Juncker, rispetto identità ma no separatismi
+            </a>
+           </h4>
+          </li>
+          <li>
+           <h4>
+            <a href="/europa/notizie/rubriche/europa_delle_regioni/2017/10/23/regioni-periferichecoesione-territoriale-pilastro-futuro-ue_fd1f9feb-9008-4d1e-ab8f-dd655951fb09.html">
+             Regioni periferiche, coesione territoriale pilastro futuro Ue
+            </a>
+           </h4>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="archivio">
+        <a href="/europa/notizie/rubriche/europa_delle_regioni/europa_delle_regioni.shtml">
+         Vai alla Rubrica
+        </a>
+       </div>
+      </div>
+      <div class="subcover" style="border:none;">
+       <a href="http://www.leonardocompany.com/" rel="nofollow external" target="_blank">
+        <img alt="Finmeccanica" src="/europa/images/banner/banner_300x30_finmeccanica3.jpg"/>
+       </a>
+      </div>
+      <div class="subcover">
+       <h3>
+        I nostri Sponsor
+       </h3>
+       <ul class="sponsor-ul">
+        <li>
+         <div>
+          <div class="sponsor-img">
+           <a href="http://www.montepaschi.be/" rel="nofollow external" target="_blank">
+            <img alt="Banca Monte Paschi Belgio" src="/europa/images/banner/logo_30x47_mps.png"/>
+           </a>
+          </div>
+          <div class="sponsor-txt" style="line-height:30px;">
+           <a href="http://www.montepaschi.be/" rel="nofollow external" target="_blank">
+            Banca Monte Paschi Belgio
+           </a>
+          </div>
+         </div>
+        </li>
+        <li>
+         <div>
+          <div class="sponsor-img">
+           <a href="http://www.enel.it/" rel="nofollow external" target="_blank">
+            <img alt="Enel" src="/europa/images/banner/logo_60x30_enel.png"/>
+           </a>
+          </div>
+          <div class="sponsor-txt" style="line-height:30px;">
+           <a href="http://www.enel.it/" rel="nofollow external" target="_blank">
+            Enel
+           </a>
+          </div>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <div class="spot">
+       <a href="http://www.viaggiart.com/get/it/app.html" rel="external nofollow">
+        <img alt="" src="/canale_viaggiart/img/banner/banner_300x80_ansaviaggiart.gif"/>
+       </a>
+      </div>
+      <!-- div class="subcover" style="border:none;">
+<a href="/europa/pagine_statiche/CONCORSO LETTERARIO ANSA 2016_Inviati per un giorno2.pdf" target="_blank" title="Scarica il regolamento per partecipare al concorso (PDF)" rel="nofollow external"><img src="/europa/images/banner/banner_300x185_ansa_erasmus.jpg" width="300" height="185" alt=""></a>
+<div class="archivio"><a href="/europa/pagine_statiche/CONCORSO LETTERARIO ANSA 2016_Inviati per un giorno2.pdf">Scarica il regolamento (PDF)</a></div>
+</div -->
+      <div class="fb-like-box" data-border-color="#ffff" data-header="true" data-href="http://www.facebook.com/ansaeuropa" data-show-faces="true" data-stream="false" data-width="299" style="height: 214px;margin-bottom:15px;">
+      </div>
+      <div class="subcover">
+       <div class="lst-element">
+        <div class="tuaeur-div">
+         <div id="europa_bandiera">
+          <a href="/europa/forum/viewtopic.php?f=9&amp;t=114">
+           VOTA IL SONDAGGIO
+          </a>
+         </div>
+         <div class="tuaeur-div">
+          <p>
+           <span id="tit_one">
+            <a href="/europa/forum/viewtopic.php?f=9&amp;t=114">
+             Migranti:Italia fa bene a minacciare blocco navi ong estere?
+            </a>
+           </span>
+          </p>
+          <div id="sondaggio">
+           <table border="0" cellpadding="2" cellspacing="0" class="tuaeur-tab">
+            <tbody>
+             <tr>
+              <td>
+               <span class="gen">
+                SÌ
+               </span>
+              </td>
+              <td>
+               <img alt="" height="12" src="http://www.ansa.it/europa/forum/styles/xand/imageset/poll_left.gif" width="4">
+                <img alt="92%" height="12" src="http://www.ansa.it/europa/forum/styles/xand/imageset/poll_center.gif" width="184">
+                 <img alt="" height="12" src="http://www.ansa.it/europa/forum/styles/xand/imageset/poll_right.gif" width="4"/>
+                </img>
+               </img>
+              </td>
+              <td align="right">
+               <b>
+                <span class="gen">
+                 92%
+                </span>
+               </b>
+              </td>
+             </tr>
+             <tr>
+              <td>
+               <span class="gen">
+                NO
+               </span>
+              </td>
+              <td>
+               <img alt="" height="12" src="http://www.ansa.it/europa/forum/styles/xand/imageset/poll_left.gif" width="4"/>
+               <img alt="8%" height="12" src="http://www.ansa.it/europa/forum/styles/xand/imageset/poll_center.gif" width="16"/>
+               <img alt="" height="12" src="http://www.ansa.it/europa/forum/styles/xand/imageset/poll_right.gif" width="4"/>
+              </td>
+              <td align="right">
+               <b>
+                <span class="gen">
+                 8%
+                </span>
+               </b>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+           <br/>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="subcover">
+       <a href="http://www.ombudsman.europa.eu/it/home.faces" rel="nofollow" title="Mediatore Europeo">
+        <img alt="Mediatore Europeo" src="/europa/images/mediatore_europeo.png"/>
+       </a>
+      </div>
+      <div>
+       <div class="subcover">
+        <h3>
+         I gruppi politici
+        </h3>
+        <ul class="coll-ul">
+         <li>
+          <div>
+           <div class="coll-img">
+            <a href="http://www.eppgroup.eu/home/it/default.asp?lg1=it" rel="nofollow">
+             <img alt="ppe" src="/europa/images/gruppi_politici/ppe.png" title="Link verso: Gruppo del Partito Popolare Europeo (Democratico Cristiano)"/>
+            </a>
+           </div>
+           <div class="coll-txt">
+            <a href="http://www.eppgroup.eu/home/it/default.asp?lg1=it" rel="nofollow">
+             PPE
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div>
+           <div class="coll-img">
+            <a href="http://www.socialistsanddemocrats.eu/gpes/index.jsp?request_locale=IT" rel="nofollow">
+             <img alt="S&amp;D" src="/europa/images/gruppi_politici/sed.png" title="Link verso: Gruppo dell'Alleanza Progressista dei Socialisti e Democratici al Parlamento Europeo"/>
+            </a>
+           </div>
+           <div class="coll-txt">
+            <a href="http://www.socialistsanddemocrats.eu/gpes/index.jsp?request_locale=IT" rel="nofollow">
+             S&amp;D
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div>
+           <div class="coll-img">
+            <a href="http://www.alde.eu/it/" rel="nofollow">
+             <img alt="ALDE/ADLE" src="/europa/images/gruppi_politici/alde.png" title="Link verso: Gruppo dell'Alleanza dei Democratici e dei Liberali per l'Europa"/>
+            </a>
+           </div>
+           <div class="coll-txt">
+            <a href="http://www.alde.eu/it/" rel="nofollow">
+             ALDE/ADLE
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div>
+           <div class="coll-img">
+            <a href="http://www.greens-efa.org/cms/default/rubrik/6/6270.home@en.htm" rel="nofollow">
+             <img alt="VERDI/ALE" src="/europa/images/gruppi_politici/verdiale.png" title="Link verso: Gruppo Verde/Alleanza libera europea"/>
+            </a>
+           </div>
+           <div class="coll-txt">
+            <a href="http://www.greens-efa.org/cms/default/rubrik/6/6270.home@en.htm" rel="nofollow">
+             VERDI/ALE
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div>
+           <div class="coll-img">
+            <a href="http://www.ecrgroup.eu/" rel="nofollow">
+             <img alt="ECR" src="/europa/images/gruppi_politici/ecr.png" title="Link verso: Conservatori e Riformisti europei"/>
+            </a>
+           </div>
+           <div class="coll-txt">
+            <a href="http://www.ecrgroup.eu/" rel="nofollow">
+             ECR
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div>
+           <div class="coll-img">
+            <a href="http://www.guengl.eu/showPage.jsp?ID=1&amp;DID=null&amp;ISSUE=0&amp;M=-1&amp;Y=-1&amp;GALLERY=null&amp;SEARCH=0" rel="nofollow">
+             <img alt="GUE/NGL" src="/europa/images/gruppi_politici/guengl.png" title="Link verso: Gruppo confederale della Sinistra unitaria europea/Sinistra verde nordica"/>
+            </a>
+           </div>
+           <div class="coll-txt">
+            <a href="http://www.guengl.eu/showPage.jsp?ID=1&amp;DID=null&amp;ISSUE=0&amp;M=-1&amp;Y=-1&amp;GALLERY=null&amp;SEARCH=0" rel="nofollow">
+             GUE/NGL
+            </a>
+           </div>
+          </div>
+         </li>
+         <li style="height:51px;">
+          <div>
+           <div class="coll-img">
+            <a href="http://www.efdgroup.eu/" rel="nofollow">
+             <img alt="efd" src="/europa/images/gruppi_politici/efd.png" title="Link verso: Gruppo Europa della Libertà e della Democrazia"/>
+            </a>
+           </div>
+           <div class="coll-txt">
+            <a href="http://www.efdgroup.eu/" rel="nofollow">
+             EFDD
+            </a>
+           </div>
+          </div>
+         </li>
+         <li style="height:51px;">
+          <div>
+           <div class="coll-img">
+            <a href="http://www.europarl.europa.eu/meps/en/search.html?country=IT" rel="nofollow">
+             <img alt="it" src="/europa/images/gruppi_politici/flag_it.png" title="Link verso: Gli eurodeputati italiani"/>
+            </a>
+           </div>
+           <div class="coll-txt">
+            <a href="http://www.europarl.europa.eu/meps/en/search.html?country=IT" rel="nofollow">
+             Gli eurodeputati italiani
+            </a>
+           </div>
+          </div>
+         </li>
+         <li style="border-style: none;">
+          <div>
+           <div class="coll-img">
+            <a href="http://enfgroup-ep.eu/" rel="nofollow">
+             <img alt="efd" src="/europa/images/gruppi_politici/enf.png" title="Link verso: Europe of Nations and Freedom"/>
+            </a>
+           </div>
+           <div class="coll-txt">
+            <a href="http://enfgroup-ep.eu/" rel="nofollow">
+             ENF
+            </a>
+           </div>
+          </div>
+         </li>
+         <li style="border-style: none;">
+          <!-- div>
+					<div class="coll-img">
+						<a href="http://www.europarl.europa.eu/meps/en/search.html?country=IT" rel="nofollow"><img alt="it" src="/europa/images/gruppi_politici/flag_it.png" title="Link verso: Gli eurodeputati italiani"/></a>
+					</div>
+					<div class="coll-txt">
+						<a href="http://www.europarl.europa.eu/meps/en/search.html?country=IT" rel="nofollow">Gli eurodeputati italiani</a>
+					</div>
+				</div -->
+         </li>
+        </ul>
+       </div>
+       <div id="bannep">
+        <div class="div-parl">
+         <div class="div-parl-inside">
+          <a href="http://www.europarl.it/view/it/index.html" rel="nofollow">
+           Parlamento Europeo
+           <br/>
+           Ufficio d'Informazione
+           <br/>
+           in Italia
+          </a>
+         </div>
+        </div>
+       </div>
+       <div id="bannep">
+        <a href="http://www.europarltv.europa.eu/it/home.aspx" rel="nofollow">
+         <img alt="EuroparlTV" src="/europa/images/europarl_tv.gif" title="Link verso: europarltv.europa.eu"/>
+        </a>
+       </div>
+      </div>
+     </div>
+     <!-- /.col-3 -->
+    </div>
+    <!-- /wrap -->
+    <!-- footer -->
+    <div id="footer">
+     <form action="/contribuzione/invia.jsp" id="FRMautore_fo" method="post">
+      <input name="link" type="hidden" value="/europa/index.html"/>
+      <input name="title" type="hidden" value="Ansa Europa"/>
+      <input name="sender" type="hidden" value="ANSA.it"/>
+      <input name="author" type="hidden" value="Redazione Ansa Europa ansa.it"/>
+      <input name="emailauthor" type="hidden" value="canale.europa@ansa.it"/>
+     </form>
+     <div class="logo-canale-footer">
+      <a href="/europa/index.html" title="Home Ansa Europa">
+       <img alt="Ansa Europa" src="/europa/images/logo_canale_footerV1.png"/>
+      </a>
+     </div>
+     <div class="wrap">
+      <span class="copy">
+       P.I. 00876481003 - © Copyright ANSA - Tutti i diritti riservati
+      </span>
+      <div class="nav-footer">
+       <a href="/">
+        ANSA.it
+       </a>
+       |
+       <a href="/prodotti/contattaci.jsp">
+        Contatti
+       </a>
+       |
+       <a href="javascript:void(0)" onclick="$('#FRMautore_fo').submit()">
+        Chiedi alla Redazione
+       </a>
+       |
+       <a href="/web/static/disclaimer.html">
+        Disclaimer
+       </a>
+       |
+       <a href="/web/static/privacy.html">
+        Privacy
+       </a>
+       |
+       <a href="/web/static/copyright.html">
+        Copyright
+       </a>
+      </div>
+     </div>
+     <!-- /wrap -->
+    </div>
+    <!-- /footer -->
+    <div id="fb-root">
+    </div>
+    <script>
+     (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+    </script>
+    <!-- div class="adv adv-top-page">    
+    <div class="l-adv adv728"><div id="banner728x90top"></div></div>
+    <div class="r-adv"><div id="banner234x90head"></div></div>      
+  </div>
+  <div id="banner988x90c0"></div -->
+    <!-- script src="http://js.revsci.net/gateway/gw.js?csid=F11190&auto=t"></script -->
+    <!--
+<script type="text/javascript" src="/sito/js/cookiechoices.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('Questo sito utilizza i cookie per migliorare servizi ed esperienza dei lettori. Se decidi di continuare la navigazione consideriamo che accetti il loro uso.',
+        'Chiudi', 'Maggiori Informazioni', 'http://www.ansa.it/sito/static/privacy.html');
+  });
+</script>
+-->
+    <link href="/sito/js/jquery.cookiebar/jquery.cookiebar.css" rel="stylesheet" type="text/css"/>
+    <script src="/sito/js/jquery.cookiebar/jquery.cookiebar.js" type="text/javascript">
+    </script>
+    <!--
+message: 'We use cookies to track usage and preferences',
+acceptButton: true,
+acceptText: 'I Understand',
+declineButton: false,
+declineText: 'Disable Cookies',
+policyButton: true,
+policyText: 'Privacy Policy',
+policyURL: '/privacy-policy/',
+autoEnable: true,
+acceptOnContinue: false,
+expireDays: 365,
+forceShow: false,
+effect: 'slide',
+element: 'body',
+append: false,
+fixed: false,
+bottom: false,
+zindex: '',
+redirect: '/',
+domain: 'www.example.com',
+referrer: 'www.example.com'
+-->
+    <script>
+     var isMobile = {
+	TabletAndroid : function() {
+		return navigator.userAgent.match(/Android/i) && ! navigator.userAgent.match(/Mobile/i) ? true : false;
+	},
+	Android : function() {
+		return navigator.userAgent.match(/Android/i) ? true : false;
+	},
+	BlackBerry : function() {
+		return navigator.userAgent.match(/BlackBerry/i) ? true : false;
+	},
+	iOS : function() {
+		return navigator.userAgent.match(/iPhone|iPad|iPod/i) ? true : false;
+	},
+	iOSold : function() {
+		return (navigator.userAgent.match(/iPhone/i) && navigator.userAgent.match(/3.0 Mobile/i)) ? true : false;
+	},
+	Windows : function() {
+		return navigator.userAgent.match(/IEMobile/i) ? true : false;
+	},
+	any : function() {
+		return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Windows() || isMobile.iOSold());
+	}
+};
+
+//var userMsg = !isMobile.any() ? 'Questo sito utilizza i cookie per migliorare servizi ed esperienza dei lettori. Se decidi di continuare la navigazione consideriamo che accetti il loro uso.' : 'Se continui la navigazione accetti uso dei cookies';
+
+var userMsg = 'Questo sito utilizza cookie, anche di terze parti, a scopi pubblicitari e per migliorare servizi ed esperienza dei lettori. Per maggiori informazioni o negare il consenso, leggi l\'informativa estesa. Se decidi di continuare la navigazione consideriamo che accetti il loro uso.';
+
+$.cookieBar(
+	{
+		message: userMsg,
+		policyURL: '/sito/static/privacy.html#Cookies',
+		policyButton: true,
+		policyText: 'Informativa estesa',
+		acceptOnContinue: true,
+		acceptText: 'Ok',
+		//forceShow: true,
+	}
+);
+    </script>
+    <script type="text/javascript">
+     <!--
+
+// Inizio Audience Science
+var rsi_segs = [];
+var segs_beg=document.cookie.indexOf('rsi_segs=');
+if(segs_beg>=0){
+                    segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+                    if(segs_beg>0){
+                                         var segs_end=document.cookie.indexOf(';',segs_beg);
+                                         if(segs_end==-1) segs_end=document.cookie.length;
+                                         rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+                    }
+}
+var segLen=20;
+var segQS = "";              
+if(rsi_segs.length < segLen){segLen=rsi_segs.length}
+for (var i=0; i<segLen; i++){
+                    segQS+= ("rsi"+"="+rsi_segs[i]+";");
+}
+// Fine Audience Science
+//-->
+    </script>
+    <!-- DOT&AD BASE TAG START //-->
+    <script id="DotnAdsBase" language="javascript" src="http://tiscali.js.ad.dotandad.com/TiscaliAds.js" type="text/javascript">
+    </script>
+    <script id="TiscaliAds" language="javascript" type="text/javascript">
+     <!--
+  var TiscaliAdArray=getADinfo(document.location, adv_banner_home, adv_banner_default, adv_banner);
+  var TiscaliAdInternal=isInternal(document.location);
+
+  //alert(document.location +' ismain='+ isMain(document.location) +' channel='+ TiscaliAdArray.TChannel +' home='+ adv_banner_home.TChannel);
+
+  var dotnAd=new DotnAds();
+  dotnAd.setTBrand(TiscaliAdArray.TBrand);
+  dotnAd.setTChannel(TiscaliAdArray.TChannel);
+  dotnAd.setTSection(TiscaliAdArray.TSection);
+  dotnAd.setTSubSection(TiscaliAdArray.TSubSection);
+  dotnAd.setFunGen(TiscaliAdArray.FunGen);
+  
+  //passare qui eventuali keyword settando la variabile dotnKeyword
+  try {
+    dotnAd.setKeywords(dotnKeyword);
+  } catch(e) {
+  }
+  dotnAd.callAdserver();
+
+  /* cookieAccepted */
+  var userAccept = $.cookie('cb-enabled');
+  var cookieAccepted = (userAccept != null && userAccept.indexOf('accepted')!=-1);
+
+  /* withinCMS */
+  function withinCMS() {
+     if ( typeof isCMS === 'undefined') {
+      return false;
+    } else {
+      return true;
+    }
+  }
+
+  var isOpera = (navigator.userAgent.indexOf('Opera') > -1) ? 1 : 0;
+  function moveADBanner(id) {
+   if (!withinCMS()) {
+    var target = document.getElementById('banner'+id);
+    var source = document.getElementById('banner'+id+'hide');
+
+    if (target && source) {
+      if (isOpera) {
+        target.innerHTML=source.innerHTML;
+        source.innerHTML='';
+      } else {
+        target.innerHTML='';
+        target.appendChild(source);
+        source.style.display='block';   
+      }
+    }
+   }
+  }
+
+  //var ie7 = (document.all && !window.opera && window.XMLHttpRequest) ? 1 : 0;
+  var ie7 = (document.all && !document.querySelector) ? 1 : 0;
+  function moveChildADBanner(id, source) {
+   if (!withinCMS()) {
+    //try {
+      var target = document.getElementById('banner'+id);
+
+      if (target && source) {
+        if (isOpera || ie7) {
+          target.innerHTML=source.innerHTML;
+          source.innerHTML='';
+        } else {
+          target.innerHTML='';
+          target.appendChild(source);
+          source.style.display='block';   
+        }
+      }
+    //} catch (err) {
+    //  alert("Error is : "  + err.description + " <br>Error number is " + err.number);
+    //}
+   }
+  }
+//-->
+    </script>
+    <!-- DOT&AD BASE TAG END //-->
+    <!-- DIV hide -->
+    <div id="banner988x90c0hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner988x90c0"))      { dotnAd.showAd2("988x90",  "custom" ); }
+     </script>
+    </div>
+    <div id="banner760x30_tophide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner760x30_top"))    { dotnAd.showAd2("988x90",  "custom1"); }
+     </script>
+    </div>
+    <div id="banner760x30_bothide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner760x30_bot"))    { dotnAd.showAd2("988x90",  "custom2"); }
+     </script>
+    </div>
+    <div id="banner728x90tophide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner728x90top"))     { dotnAd.showAd2("728x90",  "top"   ); }
+     </script>
+    </div>
+    <div id="banner234x90headhide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner234x90head"))    { dotnAd.showAd2("234x90",  "head"  ); }
+     </script>
+    </div>
+    <div id="banner970x30striphide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner970x30strip"))   { dotnAd.showAd2("984x45",  "strip" ); }
+     </script>
+    </div>
+    <div id="banner1000x90strip1hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner1000x90strip1")) { dotnAd.showAd2("1000x90", "strip1"); }
+     </script>
+    </div>
+    <div id="banner285x45chide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner285x45c"))       { dotnAd.showAd2("285x45",  "c"     ); }
+     </script>
+    </div>
+    <div id="banner300x160r15hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner300x160r15"))    { dotnAd.showAd2("300x160", "r15"   ); }
+     </script>
+    </div>
+    <div id="banner300x250r14hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner300x250r14")) {
+  if (TiscaliAdInternal==true) dotnAd.showAd2("300x250,300x600","r14");
+  else                         dotnAd.showAd2("300x250",        "r14");
+}
+     </script>
+    </div>
+    <div id="banner300x250c20hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner300x250c20")) {
+  if (TiscaliAdInternal==true) dotnAd.showAd2("300x250,300x600","c20");
+  else                         dotnAd.showAd2("300x250",        "c20");
+}
+     </script>
+    </div>
+    <div id="banner300x250r15hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner300x250r15"))     { dotnAd.showAd2("300x250,300x600" ,"r15"); }
+     </script>
+    </div>
+    <div id="banner300x60ahide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner300x60a"))     { dotnAd.showAd2("300x60" ,"casa"); }
+     </script>
+    </div>
+    <div id="banner300x60bhide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner300x60b"))     { dotnAd.showAd2("300x60" ,"vd"  ); }
+     </script>
+    </div>
+    <div id="banner300x60chide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner300x60c"))     { dotnAd.showAd2("300x60" ,"c7"  ); }
+     </script>
+    </div>
+    <div id="banner300x100ahide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner300x100a")) { dotnAd.showAd2("300x100","casa"); }
+     </script>
+    </div>
+    <div id="banner300x100vdhide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner300x100vd"))   { dotnAd.showAd2("300x100","vd"  ); }
+     </script>
+    </div>
+    <div id="banner100x100c1hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c1")) { dotnAd.showAd2("304x450","c1"); }
+     </script>
+    </div>
+    <div id="banner100x100c2hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c2")) { dotnAd.showAd2("304x450","c2"); }
+     </script>
+    </div>
+    <div id="banner100x100c3hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c3")) { dotnAd.showAd2("304x450","c3"); }
+     </script>
+    </div>
+    <div id="banner100x100c4hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c4")) { dotnAd.showAd2("304x450","c4"); }
+     </script>
+    </div>
+    <div id="banner100x100c5hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c5")) { dotnAd.showAd2("304x450","c5"); }
+     </script>
+    </div>
+    <div id="banner100x100c6hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c6")) { dotnAd.showAd2("304x450","c6"); }
+     </script>
+    </div>
+    <div id="banner100x100c7hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner100x100c7")) { dotnAd.showAd2("304x450","c7"); }
+     </script>
+    </div>
+    <div id="banner984x45striphide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner984x45strip"))   { dotnAd.showAd2("984x45",  "strip" ); }
+     </script>
+    </div>
+    <div id="banner320x50hide" style="display:none;">
+     <script type="text/javascript">
+      if (cookieAccepted && !withinCMS() && document.getElementById("banner320x50"))   { dotnAd.showAd2("320x50", "head" ); }
+     </script>
+    </div>
+    <!-- DIV move -->
+    <script type="text/javascript">
+     moveADBanner('988x90c0');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('760x30_top');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('760x30_bot');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('728x90top');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('234x90head');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('970x30strip');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('1000x90strip1');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('285x45c');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('300x160r15');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('300x250r14');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('300x250c20');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('300x250r15');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('300x60a');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('300x60b');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('300x60c');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('300x100a');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('300x100vd');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('100x100c1');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('100x100c2');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('100x100c3');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('100x100c4');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('100x100c5');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('100x100c6');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('100x100c7');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('984x45strip');
+    </script>
+    <script type="text/javascript">
+     moveADBanner('320x50');
+    </script>
+    <script type="text/javascript">
+     if (typeof(stripOff) != 'undefined') flashNEWS=true;
+    </script>
+    <!-- Google Analytics -->
+    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     _uacct = "UA-950299-1";
+urchinTracker();
+    </script>
+    <!-- Webtrekk 3.1.5, (c) www.webtrekk.com -->
+    <script src="http://webcenter.tiscali.it/distribuzione/_script/webtrekk_v3.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     <!--
+var pageConfig = {
+	linkTrack : "", 	// Attivare la rilevazione dei LINK ["link" o "standard"]
+	heatmap : "", 		// Attivare la rilevazione della HEATMAP ["1" = on | "0" = off]
+	form : "",		// Attivare la rilevazione dei FORM ["1" = on | "0" = off]
+	contentId : location.href		// variabile che popola l'oggetto PAGES (di soluto = location.href)
+};
+var wt = new webtrekkV3(pageConfig);
+wt.contentGroup = {
+1 : "ANSA.IT" //sito
+};
+wt.sendinfo();
+//-->
+    </script>
+    <noscript>
+     <div>
+      <img alt="" height="1" src="http://tiscaliadv01.webtrekk.net/245406294797569/wt.pl?p=315,0" width="1"/>
+     </div>
+    </noscript>
+    <!-- /Webtrekk -->
+    <!-- START Nielsen Online SiteCensus V6.0 -->
+    <!-- COPYRIGHT 2012 Nielsen Online -->
+    <script src="//secure-it.imrworldwide.com/v60.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+     var pvar = { cid: "veesible-it", content: "0", server: "secure-it" };
+ var feat = { check_cookie: 0 };
+ var trac = nol_t(pvar, feat);
+ trac.record().post();
+    </script>
+    <noscript>
+     <div>
+      <img alt="" height="1" src="//secure-it.imrworldwide.com/cgi-bin/m?ci=veesible-it&amp;cg=0&amp;cc=0&amp;ts=noscript" width="1"/>
+     </div>
+    </noscript>
+    <!-- END Nielsen Online SiteCensus V6.0 -->
+    <!-- Begin comScore Tag -->
+    <script type="text/javascript">
+     var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18389568" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+    </script>
+    <noscript>
+     <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=18389568&amp;cv=2.0&amp;cj=1"/>
+    </noscript>
+    <!-- End comScore Tag -->
+    <!-- /.footer -->
+   </div>
+   <!-- /.Bk -->
+  </div>
+  <script type="text/javascript">
+   <!-- TextSize  -->
+  if ( $("#mytextsize").length > 0 ) 
+  	$('#mytextsize').atextsize();
+  </script>
+  <!-- /.pg -->
+ </body>
+</html>
+
