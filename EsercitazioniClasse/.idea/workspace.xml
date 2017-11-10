@@ -2,8 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="559c12e6-bacc-4bb0-a1aa-58f6ec65624e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.racked.com_2017_10_16_16473414_ebay-online-shopping-resale" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_12_16442134_new-york-comic-con-diversity-representation-women-color-people-social-issues" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_12_16458054_umg-sound-of-vinyl-recommendation-delivery-service-launch-us" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_12_16461412_toyota-hydrogen-fuel-cell-truck-port-la" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_12_16463768_shutterstock-machine-learning-image-search-composition" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_12_16463898_middle-earth-shadow-of-war-review-ps4-xbox-pc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_12_16463930_master-dynamic-ma770-concrete-wireless-speaker-review" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_12_16463942_target-google-express-voice-shopping" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_12_16464142_hyperloop-one-virgin-richard-branson-investment" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_16_16471616_gravitational-waves-ligo-virgo-neutron-stars-merger-multi-messenger-astronomy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_16_16481658_twitter-metoo-hashtag-wome-sexual-assault-share-experiences-harassment" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_16_16481692_wonder-woman-professor-marston-homophobia-history-sexuality-real-life-vs-fiction" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_16_16481940_hurricane-ophelia-ireland-meteorology-weather" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_16_16482166_supreme-court-us-microsoft-data-foreign-servers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_16_16482568_apple-virnetx-facetime-patent-battle-loss-appeal-planned" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_16_16482634_game-of-death-movie-review-blackpills" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_16_16482962_stranger-things-clip-watch-eleven-season-2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_18_16497326_nissan-introduces-propilot-assist-first-on-2018-rogue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_18_16497658_online-ads-targeting-location-app-usage-privacy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_18_16498120_samsung-bixby-digital-voice-assistant-second-generation-release" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_18_16499058_ted-cruz-zodiac-killer-meme-twitter-joke" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_18_16499080_samsung-galaxy-google-ar-core-partnership-augmented-reality" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_18_16499274_elsiepic-service-app-freelance-photographers-launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_23_16378752_everything-we-know-about-stranger-things-second-season" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_23_16497794_analogue-super-nt-super-turrican-directors-cut-snes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_23_16507252_focal-clear-headphones-review-audiophile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_23_16510696_self-driving-cars-map-testing-bloomberg-aspen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_23_16511732_border-patrol-polygraph-trump-boots-on-border" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_23_16516792_affirm-mobile-app-lending-money-launch-virtual-credit-card" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_23_16519388_iphone-8-plus-vs-iphone-x-comparison" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_23_16520184_neogaf-tyler-evilore-malka-sexual-misconduct-forum-status" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_23_16520316_star-trek-discovery-renewed-cbs-all-access-season-2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_24_16536972_tesla-puerto-rico-hurricane-relief-solar-power-storage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_25_16519886_book-of-birdie-movie-review-horror-elizabeth-schuch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_25_16543004_crispr-cas13-rna-gene-editing-disease-treatment" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_25_16544996_robot-bees-harvard-fly-swim-water-rocket" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_25_16545524_apple-nudity-violence-tv-shows-apple-music" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_25_16545532_kaspersky-lab-russian-hacking-antivirus-telemetry-nsa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_25_16545614_continental-audio-system-car-interior-speakerless" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_25_16545956_tesla-solarcity-layoff-firing-elon-musk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_25_16546686_android-oreo-developer-preview-8-1-release" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_25_16547300_uber-credit-card-barclays-rewards" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_28_16535468_horror-film-streaming-guide-halloween-hbo-go-netflix-amazon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_28_16549898_scott-kelly-pbs-exclusive-clip-year-in-space-walking-problems-zero-gravity" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_28_16554916_best-tech-deals-apple-iphone-x-google-pixel-2-amazon-echo-plus" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_28_16560546_customize-chrome-chromebook-searches" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_28_16562072_five-short-scary-games-for-halloween" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_28_16562276_new-trailers-phantom-thread-world-of-tomorrow-watch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_28_16563850_t-mobile-joining-alphabets-project-loon-puerto-rico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_28_16564006_john-mollo-star-wars-costumes-props-obituary" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_28_16564562_stranger-things-eighties-nostalgia-blu-ray-dvd-vhs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_28_16564802_amazon-audible-support-kindle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_31_16587342_facebook-senate-hearing-russia-google-twitter" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_9_16375208_super-dark-times-horror-movie-review" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_9_16447742_apple-ios-11-notification-center-iphone-guide" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_9_16448304_clean-power-plan-repeal-epa-scott-pruitt-donald-trump-coal-climate-change" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_9_16448306_gm-cruise-strobe-lidar-acquisition" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_9_16448412_neanderthal-stone-age-human-genes-dna-schizophrenia-cholesterol-hair-skin-loneliness" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_9_16448488_table-tennis-playing-robot-ai-forpheus-omron" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_9_16448960_hulu-price-drop-netflix-commercials" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_9_16449194_star-wars-the-last-jedi-tickets-on-sale" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_1_16580718_nasa-administrator-nomination-senate-hearing-rep-jim-bridenstine" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_1_16589246_machine-learning-data-science-dirty-data-kaggle-survey-2017" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_1_16589262_microsoft-hololens-business-new-markets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_1_16589346_dell-black-friday-2017-deals-xps-laptop-xbox-one-tv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_1_16589418_ikea-apple-homekit-tradfri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_3_16603616_bmw-daimler-ford-vw-electric-charging-europe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_3_16603620_rogue-twitter-employees-trump-account-deletion" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_3_16603638_animoji-apple-iphone-x-karaoke-feature-poop-emoji" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_3_16603736_beyond-skyline-review-cinepocalypse-premiere-frank-grillo-iko-uwais" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_3_16603926_starcraft-2-free-to-play-blizzcon-november-14th-f2p" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_3_16604106_overwatch-moira-character-blizzard-world-map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_3_16604350_broadcom-qualcomm-acquisition-apple-legal-battle-100-billion" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_3_16604392_iphone-x-activation-issues-att-verizon-apple" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_7_16616076_twitter-280-characters-global-rollout" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_7_16619138_apple-israel-dual-lens-iphone-7-8-plus-patent-lawsuit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_7_16619690_facebook-revenge-porn-defense-strategy-test-australia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_7_16619954_new-york-city-transit-workers-iphone-6s-mta-transit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_7_16619976_disney-los-angeles-times-boycott-journalism-press-screenings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_7_16620380_russia-facebook-ad-bernie-sanders-swimsuit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_7_16620430_snap-q3-third-quarter-2017-earnings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_7_16620666_taylor-swift-reputation-album-not-streaming-spotify-apple-music" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_7_16620718_snapchat-spectacles-40-million-lost-failure-unsold-inventory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_11_7_16620740_snapchat-redesigned-app-announced" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_12_16455026_poof-pet-fitness-tracker-review" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_12_16463626_casio-tr-series-selfie-cameras-china-asia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_16_16459182_analogue-super-nt-snes-console-price-release" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_18_16497466_ipad-camera-button-astro-hq-luna" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_18_16498158_samsung-smartthings-cloud-internet-of-things-open-ecosystem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_18_16498184_samsung-360-round-camera-launched" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_18_16500522_snap-dancing-hot-dog-costume-halloween-for-sale" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_23_16520024_htc-u11-plus-leak-display-bezels-pictures" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_25_16543326_sony-a7r-iii-specs-price-images" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_25_16543650_watch-circuit-breaker-live-episode-004-instant-cameras-wearables-and-smart-speakers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_25_16545764_apple-face-id-quality-change-report-bloomberg-false-accuracy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_31_16587388_love-hulten-cary42-arcade-emulator-hand-made-wood-design" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_31_16588878_sony-aibo-2017-announced-price-release-date" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_9_16448280_amazon-echo-show-price-cut-discount-deal-30-youtube-removal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_10_9_16448490_ipad-pro-face-id-2018-models-prediction-kgi-securities" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_11_1_16586452_honeywell-home-security-system-announced-diy-indiegogo-alexa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_11_1_16589222_transparent-htc-u11-plus-life-leak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_circuitbreaker_2017_11_3_16604022_apple-official-iphone-x-tutorial-video" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_tldr_2017_10_25_16544926_stranger-things-lyft-strange-mode-ride-los-angeles-philadelphia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_tldr_2017_11_3_16603088_selena-gomez-wolves-music-video-watch-marshmello-vertical-imessage" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignments/1/README" afterPath="$PROJECT_DIR$/Assignments/1/README" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignments/1/verge_retrival.py" afterPath="$PROJECT_DIR$/Assignments/1/verge_retrival.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Utils/retrival.py" afterPath="$PROJECT_DIR$/Utils/retrival.py" />
     </list>
@@ -17,30 +121,21 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/EsercitazioniClasse$main.coverage" NAME="main Coverage Results" MODIFIED="1508836197599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171009" />
     <SUITE FILE_PATH="coverage/EsercitazioniClasse$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1508838559080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20171024" />
-    <SUITE FILE_PATH="coverage/EsercitazioniClasse$retrival.coverage" NAME="retrival Coverage Results" MODIFIED="1510177973288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments/1" />
+    <SUITE FILE_PATH="coverage/EsercitazioniClasse$retrival.coverage" NAME="retrival Coverage Results" MODIFIED="1510335145042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments/1" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="verge_retrival.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assignments/1/verge_retrival.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="192">
+              <caret line="170" column="19" lean-forward="false" selection-start-line="170" selection-start-column="19" selection-end-line="170" selection-end-column="19" />
               <folding>
                 <element signature="e#391#420#0" expanded="true" />
-                <element signature="e#2970#3753#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="retrival.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Utils/retrival.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding>
-                <element signature="e#152#954#0" expanded="false" />
+                <element signature="e#956#1054#0" expanded="false" />
+                <element signature="e#1104#1322#0" expanded="false" />
+                <element signature="e#2805#3786#0" expanded="false" />
+                <element signature="e#3848#4953#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -66,10 +161,10 @@
         <option value="$PROJECT_DIR$/Esercitazioni/1/README" />
         <option value="$PROJECT_DIR$/Assignments/1/retival.py" />
         <option value="$PROJECT_DIR$/Assignments/1/main.py" />
-        <option value="$PROJECT_DIR$/Assignments/1/README" />
         <option value="$PROJECT_DIR$/Assignments/1/retrival.py" />
         <option value="$PROJECT_DIR$/Assignments/1/storage.py" />
         <option value="$PROJECT_DIR$/Utils/retrival.py" />
+        <option value="$PROJECT_DIR$/Assignments/1/README" />
         <option value="$PROJECT_DIR$/Assignments/1/verge_retrival.py" />
       </list>
     </option>
@@ -80,11 +175,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1920" />
-    <option name="y" value="-1084" />
-    <option name="width" value="1920" />
-    <option name="height" value="1084" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="696" />
+    <option name="y" value="30" />
+    <option name="width" value="960" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,8 +224,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,20 +332,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-1084" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="696" y="30" width="960" height="1020" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2015625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32083333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3112245" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33150986" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -269,7 +363,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -280,7 +374,38 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#391#420#0" expanded="true" />
-            <element signature="e#2970#3753#0" expanded="false" />
+            <element signature="e#956#1054#0" expanded="false" />
+            <element signature="e#1104#1322#0" expanded="false" />
+            <element signature="e#2805#3786#0" expanded="false" />
+            <element signature="e#3848#4953#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/1/verge_retrival.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#391#420#0" expanded="true" />
+            <element signature="e#956#1054#0" expanded="false" />
+            <element signature="e#1104#1322#0" expanded="false" />
+            <element signature="e#2805#3786#0" expanded="false" />
+            <element signature="e#3848#4953#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/1/verge_retrival.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#391#420#0" expanded="true" />
+            <element signature="e#956#1054#0" expanded="false" />
+            <element signature="e#1104#1322#0" expanded="false" />
+            <element signature="e#2805#3786#0" expanded="false" />
+            <element signature="e#3848#4953#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -289,8 +414,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="602">
           <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/1/verge_retrival.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#152#954#0" expanded="false" />
+            <element signature="e#391#420#0" expanded="true" />
+            <element signature="e#956#1054#0" expanded="false" />
+            <element signature="e#1104#1322#0" expanded="false" />
+            <element signature="e#2805#3786#0" expanded="false" />
+            <element signature="e#3848#4953#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -301,7 +437,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#391#420#0" expanded="true" />
-            <element signature="e#2970#3753#0" expanded="false" />
+            <element signature="e#956#1054#0" expanded="false" />
+            <element signature="e#1104#1322#0" expanded="false" />
+            <element signature="e#2805#3786#0" expanded="false" />
+            <element signature="e#3848#4953#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -312,18 +451,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#391#420#0" expanded="true" />
-            <element signature="e#2970#3753#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/1/verge_retrival.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#391#420#0" expanded="true" />
-            <element signature="e#2970#3753#0" expanded="false" />
+            <element signature="e#956#1054#0" expanded="false" />
+            <element signature="e#1104#1322#0" expanded="false" />
+            <element signature="e#2805#3786#0" expanded="false" />
+            <element signature="e#3848#4953#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -355,7 +486,10 @@
           <caret line="37" column="35" lean-forward="false" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
           <folding>
             <element signature="e#391#420#0" expanded="true" />
-            <element signature="e#2970#3753#0" expanded="false" />
+            <element signature="e#956#1054#0" expanded="false" />
+            <element signature="e#1104#1322#0" expanded="false" />
+            <element signature="e#2805#3786#0" expanded="false" />
+            <element signature="e#3848#4953#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -388,38 +522,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20171009/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171002/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20171024/scraps/http:__www.ansa.it_europa_notizie_approfondimenti_abceuropa_2011_05_09_visualizza_new.html_871933067.html&#10;">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7812">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/1/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171024/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -462,21 +568,66 @@
     <entry file="file://$PROJECT_DIR$/Assignments/1/news/https:__www.theverge.com_2017_10_6_16388394_hero-6-black-hands-on-sample-video-photos" />
     <entry file="file://$PROJECT_DIR$/Utils/retrival.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="e#152#954#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="407">
+          <caret line="65" column="69" lean-forward="true" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/1/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171024/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171009/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171002/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-710">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/1/freqorankwostopwords.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/1/stopwords-en.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignments/1/verge_retrival.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="192">
+          <caret line="170" column="19" lean-forward="false" selection-start-line="170" selection-start-column="19" selection-end-line="170" selection-end-column="19" />
           <folding>
             <element signature="e#391#420#0" expanded="true" />
-            <element signature="e#2970#3753#0" expanded="false" />
+            <element signature="e#956#1054#0" expanded="false" />
+            <element signature="e#1104#1322#0" expanded="false" />
+            <element signature="e#2805#3786#0" expanded="false" />
+            <element signature="e#3848#4953#0" expanded="false" />
           </folding>
         </state>
       </provider>

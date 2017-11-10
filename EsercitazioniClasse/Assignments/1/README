@@ -25,9 +25,3 @@ Nomi dei file: 2017_E1_matricola_codice.zip ,  2017_E1_matricola_testi.zip , 201
 Matricola deve essere sostituito dal numero di matricola.
 Es: 2017_E1_737373_codice.zip
 
-
-USEFUL STUFF:
-----------------------------------------------------------
-//*[@id="verge"]/div[2]/div[4]/div[1]/ul/li[1]/div/h3/a
-----------------------------------------------------------
-xpath to title
