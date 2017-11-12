@@ -1,26 +1,16 @@
-'''
-First Assignment part A module: Data Retrival.
-
-a.1)    I've choosen www.theverge.com for my crawling. The Verge is a Tech-centric news site quite popular.
-        It has an archive section of the site where I will retrive the URLs for the news. The archive
-        URL is: https://www.theverge.com/archives.
-
-        Each archive page has 10 news previews at date 2 November 2017.
-'''
-
 from bs4 import BeautifulSoup
-from gensim import corpora
-from gensim import utils
 from pathlib import Path
-import urllib.request
-import urllib.error
 import time
+import os
+import requests
+import logging
+import re
 
+#module name
+__name__='verge_retrival'
 
-import matplotlib.pyplot as plt;
-plt.rcdefaults()
-import numpy as np
-import matplotlib.pyplot as plt
+#logging config
+logging.basicConfig(filename='verge_retriver.log', level=logging.DEBUG, format='%(levelname)s:%(message)s')
 
 ##############################################################################
 #                             Private Utilities                              #
@@ -30,11 +20,22 @@ def _save_to_path(string_content, path = './dummy_save'):
     with open(file=path, mode='w', encoding='utf-8') as fout:
         print(string_content, file=fout)
 
+def _page_retriver(url):
+
+    headers = {'User-Agent':
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) '+
+                   'AppleWebKit/537.36 (KHTML, like Gecko) '+
+                   'Chrome/50.0.2661.102 Safari/537.36'}
+    response = requests.get(url, headers=headers)
+    logging.debug('Page {} retrived with status code : {}'.format(url, response.status_code))
+    return response.text
+
 def _article_downloader(url, article_path):
-    with urllib.request.urlopen(url) as response:
-        html = response.read()
-        article_content = _article_parser(html)
-        _save_to_path(article_content.toJSON(), path=article_path)
+
+    html = _page_retriver(url)
+    article_content = _article_parser(html)
+    _save_to_path(article_content.toJSON(), path=article_path)
+
     return article_content
 
 def _article_parser(html_string):
@@ -43,21 +44,21 @@ def _article_parser(html_string):
     soup = BeautifulSoup(html_string, 'html.parser')
     title_tag = soup.find('h1', {'class':'c-page-title'})
     if title_tag is None:
-        title = 'couldnotbeparsed'
-        print('Title could not be parsed!')
+        title = ''
+        logging.CRITICAL('title could not be PARSED!')
     else:
         title = title_tag.getText()
 
+    [bad.extract() for bad in soup.findAll('script')]
+
     for _content_tag in soup.find_all('div', 'c-entry-content'):
         tree = html.fromstring(_content_tag.__str__())
-        for bad in tree.xpath("//script"):
-            bad.getparent().remove(bad)
         extracted = tree.text_content()
-        content += ' ' + extracted.replace('\n', '').replace('\r','').replace('(', ' ').replace(')', ' ')
+        content += ' ' + extracted
     return Article(title, content)
 
 ##############################################################################
-#                              Module Functions                              #
+#                              Module Utilities                             #
 ##############################################################################
 
 class Article(object):
@@ -77,6 +78,20 @@ class Article(object):
         jart = json.loads(jsonString, encoding=encoding)
         return Article(jart["title"], jart["content"])
 
+def pages_downloader(urls):
+    PAGES_DIR_PATH = './pages/{}'
+    pages = []
+
+    #If no directory will make it.
+    os.makedirs(PAGES_DIR_PATH.format(''), exist_ok=True)
+
+    for url in urls:
+        retrived = _page_retriver(url)
+        _save_to_path(retrived, PAGES_DIR_PATH.format(url.replace('/', '_')))
+        pages.append(retrived)
+
+    return pages
+
 
 def news_urls_retriver(limit = 1000):
     '''
@@ -86,26 +101,22 @@ def news_urls_retriver(limit = 1000):
     '''
     NEWS_ARCHIVE_PATH = 'https://www.theverge.com/archives/{}'
     news = set()
-    flag = False
     index = 1
-    while(len(news) < limit and not flag):
-        try:
-            with urllib.request.urlopen(NEWS_ARCHIVE_PATH.format(index)) as response:
-                html = response.read()
-                soup = BeautifulSoup(html, 'html.parser')
-                for article in soup.find_all('li', 'p-basic-article-list__node'):
-                    news.add(article.find('div', 'body').find('h3').find('a')['href'])
-                    index += 1
-                    if len(news) >= limit:
-                        break
-                time.sleep(1)
-        except urllib.error.HTTPError as e:
-            print('HTTP ERROR! {}'.format(e.info()))
-            flag = True
+
+    while(len(news) < limit):
+        html = _page_retriver(NEWS_ARCHIVE_PATH.format(index))
+        soup = BeautifulSoup(html, 'html.parser')
+        for article in soup.find_all('li', 'p-basic-article-list__node'):
+            news.add(article.find('div', 'body').find('h3').find('a')['href'])
+            index += 1
+            if len(news) >= limit:
+                break
+        time.sleep(1)
+
     return [x for x in news]
 
+
 def news_articles_retriver(urls, force_download=False):
-    import os
     NEWS_DIR_PATH = './news/{}'
     os.makedirs(NEWS_DIR_PATH.format(''), exist_ok=True)
     articles = []
@@ -117,14 +128,14 @@ def news_articles_retriver(urls, force_download=False):
             try:
                 article_abs_path = article_file.resolve()
             except FileNotFoundError:
-                print('cache miss! file = {}'.format(article_file))
+                logging.debug('cache miss! file = {}'.format(article_file))
                 article_content = _article_downloader(url, article_path)
                 downloaded += 1
                 articles.append(article_content)
-                if downloaded % 2 == 0:
+                if downloaded % 4 == 0:
                     time.sleep(1)
             else:
-                print('cache hit! file = {}'.format(article_file))
+                logging.debug('cache hit! file = {}'.format(article_file))
                 articles.append(Article.buildFromJSON(article_abs_path.read_text(encoding='utf-8', errors='replace')))
         else:
             articles.append(_article_downloader(url, article_path))
@@ -136,54 +147,4 @@ def news_articles_retriver(urls, force_download=False):
 ##############################################################################
 #                                Testring Area                               #
 ##############################################################################
-
-#Parte A - Raccolta
-
-test = news_urls_retriver(100)
-print('Retriver URLS : ')
-print(test)
-articles = news_articles_retriver(test)
-
-print("Articles retrived!!!\nHere are the titles:")
-
-for article in articles:
-    print(article.title)
-
-contents = [article.content for article in articles]
-
-#Parte B - Raccomandazione
-
-#B - 1
-blacklist = set()
-with open('stopwords-en.txt', 'r', encoding='utf-8') as fin:
-    blacklist = set([word.replace('\n', '').replace('\r','') for word in fin.readlines()])
-
-vector_contents = [[word for word in content.lower().split() if word not in blacklist] for content in contents]
-
-dictionary = corpora.Dictionary(vector_contents)
-
-occurencies = dictionary.doc2bow([item for contents in vector_contents for item in contents])
-
-frequencies = dict(occurencies)
-top500 = sorted(frequencies, key=frequencies.get, reverse=True)[:500]
-top500freq = [frequencies[item] for item in top500]
-
-for t in top500[:20]:
-    print('{} -> {}'.format(dictionary.get(t), frequencies[t]))
-
-print(blacklist)
-
-y_pos = np.arange(len(top500))
-performance = top500freq
-
-
-
-plt.bar(y_pos, performance, align='center', alpha=0.5)
-plt.ylabel('Frequency')
-plt.xlabel('Rank')
-plt.title('Frequency over Rank (with stopwords)')
-
-plt.show()
-
-
 
