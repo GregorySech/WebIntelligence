@@ -4,7 +4,6 @@ import time
 import os
 import requests
 import logging
-import re
 
 #module name
 __name__='verge_retrival'
@@ -45,7 +44,7 @@ def _article_parser(html_string):
     title_tag = soup.find('h1', {'class':'c-page-title'})
     if title_tag is None:
         title = ''
-        logging.CRITICAL('title could not be PARSED!')
+        logging.critical('title could not be PARSED!')
     else:
         title = title_tag.getText()
 
@@ -143,6 +142,19 @@ def news_articles_retriver(urls, force_download=False):
             if downloaded % 2 == 0:
                 time.sleep(1)
     return articles
+
+def articles_from_folder(folder='./news'):
+    articles = []
+    for file in os.listdir(folder):
+        try:
+            with open(os.path.join(folder, file), 'r', encoding='utf-8') as fin:
+                article = Article.buildFromJSON(' '.join(fin.readlines()))
+                if article is not None and (article.title is not None and article.content is not None):
+                    articles.append(article)
+        except Exception as e:
+            logging.critical('Error in loading news from file:{}'.format(e))
+    return articles
+
 
 ##############################################################################
 #                                Testring Area                               #
